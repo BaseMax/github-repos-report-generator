@@ -1,0 +1,70 @@
+[Repo]
+  name       : 0-1KnapsackDynamicProgrammingC
+  url        : https://github.com/BaseMax/0-1KnapsackDynamicProgrammingC
+  description: This is an implementation of the 0-1 knapsack problem in C using dynamic programming. The problem consists of a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity. The goal is to determine the subset of items that maximizes the total value of the knapsack without exceeding its weight capacity.
+  language   : C
+  tags       : c, knapsack, knapsack-problem, knapsack-problem-dynamic, knapsack-solution, knapsack-solver, knapsack01, knapsack0-1
+
+[Repo]
+  name       : 0-1KnapsackGreedyC
+  url        : https://github.com/BaseMax/0-1KnapsackGreedyC
+  description: This is an implementation of the 0-1 knapsack problem in C using a greedy algorithm. The problem consists of a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity. The goal is to determine the subset of items that maximizes the total value of the knapsack without exceeding its weight capacity.
+  language   : C
+  tags       : c, greedy, greedy-algorithm, greedy-algorithms, greedy-programming, knapsack, knapsack-01, knapsack-problem, knapsack-problem-greedy, knapsack-solver, knapsack0-1, knapsack01, knapsack-greedy
+
+[Repo]
+  name       : 0-1KnapsackRecursiveC
+  url        : https://github.com/BaseMax/0-1KnapsackRecursiveC
+  description: This is an implementation of the 0-1 knapsack problem in C using a recursive approach. The problem consists of a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity. The goal is to determine the subset of items that maximizes the total value of the knapsack without exceeding its weight capacity.
+  language   : C
+  tags       : c, knapsack, knapsack-problem, knapsack-solution, knapsack-solver, knapsack0-1, knapsack01, knapsack-01, knapsack-problem-recursive, knapsack-recursive
+
+[Repo]
+  name       : 01Knapsack
+  url        : https://github.com/BaseMax/01Knapsack
+  description: The project focuses on solving the 0/1 Knapsack problem using various algorithms. The 0/1 Knapsack problem is a well-known optimization problem in computer science that deals with finding the best combination of items to pack into a knapsack, where each item has a weight and a value, and the knapsack has a limited capacity.
+  language   : Python
+  tags       : None
+
+[Repo]
+  name       : 7Segments
+  url        : https://github.com/BaseMax/7Segments
+  description: This C project demonstrates a simple digit encoding and decoding mechanism using a digit struct composed of boolean values to represent segments of a digital display.
+  language   : C
+  tags       : 7segment, 7segments, c, decode, encode, encoding, digit-encoding
+
+[Repo]
+  name       : AirplaneTicketFirefox
+  url        : https://github.com/BaseMax/AirplaneTicketFirefox
+  description: The firefox addon for analyzing the purchase of Airplane tickets.
+  language   : JavaScript
+  tags       : firefox, firefox-addon, firefox-extension, firefox-webextension, firefox-extensions, firefox-browser, airplane, airplanes-tracker, airplanes, airplane-tickets, airplane-ticket
+
+[Repo]
+  name       : AlgoStock
+  url        : https://github.com/BaseMax/AlgoStock
+  description: AlgoStock is a PHP-based CLI script to get prices and information from the Iran Stock Exchange and store these in the database, after that we calculate some indicators and will order buy and sell every time it thinks is a good time.
+  language   : PHP
+  tags       : stock, php, stock-market, stocks, stock-data, stock-trading, stock-prices
+
+[Repo]
+  name       : AmirkabirIndustrialTown
+  url        : https://github.com/BaseMax/AmirkabirIndustrialTown
+  description: بانک اطلاعات شهرک صنعتی امیرکبیر کاشان ایران - This repository contains a SQL/JSON dataset of businesses located in the Amirkabir Industrial Town in Kashan, Iran. The dataset includes details about various companies, their activities, contact information, and locations.
+  language   : HTML
+  tags       : database, database-schema, industrial-town, json, py, python, table, amirkabir-industrial, amirkabir-industrial-town, database-as-a-service, database-sql, sql, sql-database
+
+[Repo]
+  name       : AnalyzeCombine
+  url        : https://github.com/BaseMax/AnalyzeCombine
+  description: Analyze the combine with and without the repetition. (SOON)
+  language   : PHP
+  tags       : combine, probability, probability-calculator, probability-statistics, probability-distribution, probability-theory, combinatorics, combinations, combination, combinational-logic, combinational, combinational-optimization, combinations-with-repetition, combinational-circuit, combination-lock
+
+[Repo]
+  name       : AndroidAutoBuildAPK
+  url        : https://github.com/BaseMax/AndroidAutoBuildAPK
+  description: This is an example of how to build an APK using GitHub Actions. Here, we created a simple Android application that displays a Hello World!. We then created a workflow that builds the APK and uploads it as a new release.
+  language   : Kotlin
+  tags       : android, apk, apk-builder, app, build-apk, github-action, github-actions, github-actions-ci, java, kotlin
+

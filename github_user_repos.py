@@ -43,9 +43,9 @@ def init_repo_text_file(filepath: str):
         pass
 
 
-def append_repo_info_to_file(filepath: str, repo_info: Dict):
+def append_repo_info_to_file(filepath: str, repo_info: Dict, page: int, index: int):
     with open(filepath, "a", encoding="utf-8") as f:
-        f.write("[Repo]\n")
+        f.write(f"[Repo] (Page {page}, Index {index})\n")
         f.write(f"  name       : {repo_info['name']}\n")
         f.write(f"  url        : {repo_info['url']}\n")
         f.write(f"  description: {repo_info['description']}\n")
@@ -161,7 +161,7 @@ def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Op
         if not page_data:
             break
 
-        for repo in page_data:
+        for i, repo in enumerate(page_data, start=1):
             owner = repo.get("owner", {}).get("login", "")
             name = repo.get("name", "")
             topics = get_repo_topics(owner, name, token)
@@ -170,7 +170,7 @@ def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Op
             repo_info = extract_repo_info(repo, topics)
             log_repo_info(repo_info)
             if text_file_path:
-                append_repo_info_to_file(text_file_path, repo_info)
+                append_repo_info_to_file(text_file_path, repo_info, page, i)
 
         repos.extend(page_data)
 
