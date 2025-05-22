@@ -152,7 +152,13 @@ def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Op
 
     while True:
         url = f"{GITHUB_API}/users/{username}/repos"
-        params = {"per_page": per_page, "page": page, "type": "public", "sort": "full_name"}
+        params = {
+            "per_page": per_page,
+            "page": page,
+            "type": "public",
+            "sort": "created",
+            "direction": "asc"
+        }
         response = request_with_retries(url, params=params, token=token)
         if not response or response.status_code != 200:
             logger.error(f"Failed to fetch repos page {page}. Status: {response.status_code if response else 'No response'}")
