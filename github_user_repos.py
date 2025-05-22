@@ -9,6 +9,9 @@ import pandas as pd
 from typing import List, Dict, Tuple, Optional
 from jinja2 import Template
 from datetime import datetime
+from colorama import init as colorama_init, Fore, Style
+
+colorama_init(autoreset=True)
 
 GITHUB_API = "https://api.github.com"
 
@@ -17,6 +20,21 @@ logging.basicConfig(
     format='[%(levelname)s] %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+
+def log_repo_info(repo_info: Dict):
+    print(
+        Fore.CYAN + "[Repo]" + Style.RESET_ALL + "\n" +
+        f"  {Fore.YELLOW}name       :{Style.RESET_ALL} {repo_info['name']}\n"
+        f"  {Fore.YELLOW}url        :{Style.RESET_ALL} {repo_info['url']}\n"
+        f"  {Fore.YELLOW}description:{Style.RESET_ALL} {repo_info['description']}\n"
+        f"  {Fore.YELLOW}language   :{Style.RESET_ALL} {repo_info['top_language']}\n"
+        f"  {Fore.YELLOW}tags       :{Style.RESET_ALL} {', '.join(repo_info['tags']) if repo_info['tags'] else 'None'}"
+    )
+
+
+def log_page_info(page: int, count: int):
+    print(Fore.GREEN + f"Page {page}: Retrieved {count} repositories" + Style.RESET_ALL)
 
 
 def init_repo_text_file(filepath: str):
@@ -124,7 +142,6 @@ def validate_username(username: str, token: Optional[str] = None) -> Tuple[bool,
 
 
 def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Optional[str] = None) -> List[Dict]:
-    """Fetch all public repositories of user with pagination, logging each repo info."""
     repos = []
     page = 1
     per_page = 100
@@ -147,19 +164,11 @@ def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Op
         
         for repo in page_data:
             repo_info = extract_repo_info(repo, token)
-            logger.info(
-                "[Repo]\n"
-                f"  name       : {repo_info['name']}\n"
-                f"  url        : {repo_info['url']}\n"
-                f"  description: {repo_info['description']}\n"
-                f"  language   : {repo_info['top_language']}\n"
-                f"  tags       : {', '.join(repo_info['tags']) if repo_info['tags'] else 'None'}"
-            )
-        
+            log_repo_info(repo_info)
             if text_file_path:
                 append_repo_info_to_file(text_file_path, repo_info)
 
-        logger.info(f"Page {page}: Retrieved {len(page_data)} repositories")
+        log_page_info(page, len(page_data))
         page += 1
         time.sleep(0.1)
     return repos
