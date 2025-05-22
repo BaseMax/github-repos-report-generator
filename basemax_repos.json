@@ -11948,56 +11948,116 @@
     "url": "https://github.com/BaseMax/ShowAli",
     "description": "Display the \"Ali\" name as art and pattern using * character.",
     "top_language": "C",
-    "tags": []
+    "tags": [
+      "art",
+      "c"
+    ]
   },
   {
     "name": "SIEMGraphQLTS",
     "url": "https://github.com/BaseMax/SIEMGraphQLTS",
     "description": "Welcome to the SIEM (Security Information and Event Management) GraphQL-based project! This project is designed to provide a powerful and flexible security monitoring solution by leveraging the capabilities of GraphQL and TypeScript.",
     "top_language": "TypeScript",
-    "tags": []
+    "tags": [
+      "javascript",
+      "graphql",
+      "typescript",
+      "monitoring",
+      "log",
+      "siem",
+      "monitoring-server",
+      "monitoring-plugins",
+      "monitoring-tool",
+      "log-system",
+      "typescript-graphql",
+      "siem-graphql",
+      "siem-typescript",
+      "typescript-siem"
+    ]
   },
   {
     "name": "simple-api-typescript",
     "url": "https://github.com/BaseMax/simple-api-typescript",
     "description": "A lightweight and minimal REST API built with TypeScript, Express, and SQLite.",
     "top_language": "TypeScript",
-    "tags": []
+    "tags": [
+      "typescript",
+      "sqlite",
+      "expressjs",
+      "ts",
+      "sqlite3",
+      "express-js",
+      "bun",
+      "express-ts",
+      "typescript-express",
+      "expressts"
+    ]
   },
   {
     "name": "simple-jit-compiler",
     "url": "https://github.com/BaseMax/simple-jit-compiler",
     "description": "This project is designed to illustrate the mechanism used in JIT compilers development.",
     "top_language": "C++",
-    "tags": []
+    "tags": [
+      "c",
+      "compiler",
+      "cpp",
+      "jit",
+      "jit-compiler",
+      "compiler-jit"
+    ]
   },
   {
     "name": "simple-lexer-c",
     "url": "https://github.com/BaseMax/simple-lexer-c",
     "description": "A lightweight and easy-to-use lexer library written in C. This library—named simple-lexer—is designed to simplify the creation of lexers by providing a set of utility functions and a flexible API for iterating over tokens.",
     "top_language": "C",
-    "tags": []
+    "tags": [
+      "c",
+      "clang",
+      "lexer",
+      "lexer-generator",
+      "c-language",
+      "lexer-parser",
+      "lexers",
+      "lexer-analyzer",
+      "lexer-example",
+      "lexer-library",
+      "c-lexer",
+      "simple-lexer",
+      "lexer-c"
+    ]
   },
   {
     "name": "SimpleDjangoSignals",
     "url": "https://github.com/BaseMax/SimpleDjangoSignals",
     "description": "Sample repository to lean Django Signals in small script Using Python.",
     "top_language": "Python",
-    "tags": []
+    "tags": [
+      "python", "django", "django-sample", "django-project", "django-example", "django-signals", "django-signal", "signals-django", "python-signals-django", "python-django-signals", "python-django-sample", "python-django-example"
+    ]
   },
   {
     "name": "SimpleFastPyAPI",
     "url": "https://github.com/BaseMax/SimpleFastPyAPI",
     "description": "This is a simple REST API built with Python and FastAPI and SQLAlchemy for CRUD operations (Create, Read, Update, Delete) on users. FastAPI is a powerful web framework for building APIs.",
     "top_language": "Python",
-    "tags": []
+    "tags": [
+      "python", "api", "sqlalchemy", "restful", "python3", "restful-api", "py", "api-restful", 
+      "fastapi", "fastapi-sample", "fastapi-crud", "fastapi-users", "python-fastapi", 
+      "fastapi-user", "fastapi-example", "fastapi-python", "fastapi-py"
+    ]
   },
   {
     "name": "SimplestRSA",
     "url": "https://github.com/BaseMax/SimplestRSA",
     "description": "Simplest implementation of RSA algorithm encryption and decryption. (In only 13 lines)",
     "top_language": "PHP",
-    "tags": []
+    "tags": [
+      "php", "encryption", "rsa", "rsa-signature", "encryption-algorithm", "encryption-algorithms", 
+      "rsa-cryptography", "rsa-key-encryption", "encryption-tool", "encryption-decryption", 
+      "rsa-encryption", "encryption-library", "rsa-cryptosystem", "rsa-algorithm", "rsa-signature-decryption"
+    ]
   },
   {
     "name": "SimpleTextCEditor",
