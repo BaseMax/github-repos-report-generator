@@ -1,70 +1,182 @@
-[Repo]
+[Repo] (Page 1, Index 1)
   name       : 0-1KnapsackDynamicProgrammingC
   url        : https://github.com/BaseMax/0-1KnapsackDynamicProgrammingC
   description: This is an implementation of the 0-1 knapsack problem in C using dynamic programming. The problem consists of a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity. The goal is to determine the subset of items that maximizes the total value of the knapsack without exceeding its weight capacity.
   language   : C
   tags       : c, knapsack, knapsack-problem, knapsack-problem-dynamic, knapsack-solution, knapsack-solver, knapsack01, knapsack0-1
 
-[Repo]
+[Repo] (Page 1, Index 2)
   name       : 0-1KnapsackGreedyC
   url        : https://github.com/BaseMax/0-1KnapsackGreedyC
   description: This is an implementation of the 0-1 knapsack problem in C using a greedy algorithm. The problem consists of a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity. The goal is to determine the subset of items that maximizes the total value of the knapsack without exceeding its weight capacity.
   language   : C
   tags       : c, greedy, greedy-algorithm, greedy-algorithms, greedy-programming, knapsack, knapsack-01, knapsack-problem, knapsack-problem-greedy, knapsack-solver, knapsack0-1, knapsack01, knapsack-greedy
 
-[Repo]
+[Repo] (Page 1, Index 3)
   name       : 0-1KnapsackRecursiveC
   url        : https://github.com/BaseMax/0-1KnapsackRecursiveC
   description: This is an implementation of the 0-1 knapsack problem in C using a recursive approach. The problem consists of a set of items, each with a weight and a value, and a knapsack with a maximum weight capacity. The goal is to determine the subset of items that maximizes the total value of the knapsack without exceeding its weight capacity.
   language   : C
   tags       : c, knapsack, knapsack-problem, knapsack-solution, knapsack-solver, knapsack0-1, knapsack01, knapsack-01, knapsack-problem-recursive, knapsack-recursive
 
-[Repo]
+[Repo] (Page 1, Index 4)
   name       : 01Knapsack
   url        : https://github.com/BaseMax/01Knapsack
   description: The project focuses on solving the 0/1 Knapsack problem using various algorithms. The 0/1 Knapsack problem is a well-known optimization problem in computer science that deals with finding the best combination of items to pack into a knapsack, where each item has a weight and a value, and the knapsack has a limited capacity.
   language   : Python
   tags       : None
 
-[Repo]
+[Repo] (Page 1, Index 5)
   name       : 7Segments
   url        : https://github.com/BaseMax/7Segments
   description: This C project demonstrates a simple digit encoding and decoding mechanism using a digit struct composed of boolean values to represent segments of a digital display.
   language   : C
   tags       : 7segment, 7segments, c, decode, encode, encoding, digit-encoding
 
-[Repo]
+[Repo] (Page 1, Index 6)
   name       : AirplaneTicketFirefox
   url        : https://github.com/BaseMax/AirplaneTicketFirefox
   description: The firefox addon for analyzing the purchase of Airplane tickets.
   language   : JavaScript
   tags       : firefox, firefox-addon, firefox-extension, firefox-webextension, firefox-extensions, firefox-browser, airplane, airplanes-tracker, airplanes, airplane-tickets, airplane-ticket
 
-[Repo]
+[Repo] (Page 1, Index 7)
   name       : AlgoStock
   url        : https://github.com/BaseMax/AlgoStock
   description: AlgoStock is a PHP-based CLI script to get prices and information from the Iran Stock Exchange and store these in the database, after that we calculate some indicators and will order buy and sell every time it thinks is a good time.
   language   : PHP
   tags       : stock, php, stock-market, stocks, stock-data, stock-trading, stock-prices
 
-[Repo]
+[Repo] (Page 1, Index 8)
   name       : AmirkabirIndustrialTown
   url        : https://github.com/BaseMax/AmirkabirIndustrialTown
   description: بانک اطلاعات شهرک صنعتی امیرکبیر کاشان ایران - This repository contains a SQL/JSON dataset of businesses located in the Amirkabir Industrial Town in Kashan, Iran. The dataset includes details about various companies, their activities, contact information, and locations.
   language   : HTML
   tags       : database, database-schema, industrial-town, json, py, python, table, amirkabir-industrial, amirkabir-industrial-town, database-as-a-service, database-sql, sql, sql-database
 
-[Repo]
+[Repo] (Page 1, Index 9)
   name       : AnalyzeCombine
   url        : https://github.com/BaseMax/AnalyzeCombine
   description: Analyze the combine with and without the repetition. (SOON)
   language   : PHP
   tags       : combine, probability, probability-calculator, probability-statistics, probability-distribution, probability-theory, combinatorics, combinations, combination, combinational-logic, combinational, combinational-optimization, combinations-with-repetition, combinational-circuit, combination-lock
 
-[Repo]
+[Repo] (Page 1, Index 10)
   name       : AndroidAutoBuildAPK
   url        : https://github.com/BaseMax/AndroidAutoBuildAPK
   description: This is an example of how to build an APK using GitHub Actions. Here, we created a simple Android application that displays a Hello World!. We then created a workflow that builds the APK and uploads it as a new release.
   language   : Kotlin
   tags       : android, apk, apk-builder, app, build-apk, github-action, github-actions, github-actions-ci, java, kotlin
+
+[Repo] (Page 1, Index 11)
+  name       : AndroidAutoUpdate
+  url        : https://github.com/BaseMax/AndroidAutoUpdate
+  description: A tiny class to check automatically the Android application, if there are a newer version.
+  language   : Java
+  tags       : android, java, android-java, java-android, android-autoupdate, android-auto-update, autoupdate-android, android-update, android-update-auto
+
+[Repo] (Page 1, Index 12)
+  name       : AndroidDeviceInformation
+  url        : https://github.com/BaseMax/AndroidDeviceInformation
+  description: Get device information of android using a tiny and small Java file.
+  language   : Java
+  tags       : andrid, java, android-java, java-android, android-device, android-device-info, android-devices, android-device-id, android-information, android-information-device, android-info, java-android-device, java-android-device-information
+
+[Repo] (Page 1, Index 13)
+  name       : AndroidGoogleMaps
+  url        : https://github.com/BaseMax/AndroidGoogleMaps
+  description: A sample android application with google maps for SDK 9.
+  language   : Java
+  tags       : android, java, googlemap, googlemap-android, google-maps, google-maps-android, android-google-maps, android-googlemaps, sdk9, googlemap-sdk9, googlemaps-sdk9, google-maps-sdk9
+
+[Repo] (Page 1, Index 14)
+  name       : AndroidMySMS
+  url        : https://github.com/BaseMax/AndroidMySMS
+  description: An android application to send sms for a cloud-based web service.
+  language   : Java
+  tags       : android, java, android-java, java-android, android-sms, android-app, android-sms-app, sms-cloud, cloud-sms, cloud-sms-android, cloud-sms-app, app-cloud-sms, app-network-sms, android-php
+
+[Repo] (Page 1, Index 15)
+  name       : AndroidSnappMap
+  url        : https://github.com/BaseMax/AndroidSnappMap
+  description: An example of an Android map app, Snapp app map rebuild.
+  language   : Java
+  tags       : java, android, snapp, snapp-map, map-snapp, mapbox, map-mapbox, mapbox-style, mapbox-iran, map-iran, android-map-iran, iran-map, iran-map-android, snapp-map-android, snapp-android-map, android-java, java-android
+
+[Repo] (Page 1, Index 16)
+  name       : AndroidWebView
+  url        : https://github.com/BaseMax/AndroidWebView
+  description: A tiny android application to display a special webpage in default.
+  language   : Java
+  tags       : android, webview, webview-app, webviewdemo, webviewer, webviewclient, geolocation-android, geolocation-webview, webview-google-map, webview-map, webview-geolocation, webview-android, webview-android-geolocation, webview-android-map, webview-android-google-map, google-maps-android, google-map
+
+[Repo] (Page 1, Index 17)
+  name       : another-one-draft-in-c
+  url        : https://github.com/BaseMax/another-one-draft-in-c
+  description: Just a attempt to implement a lexer in pure C without a lexer generator.
+  language   : C
+  tags       : c, lexer, parser
+
+[Repo] (Page 1, Index 18)
+  name       : AparatExpressGraphQLTS
+  url        : https://github.com/BaseMax/AparatExpressGraphQLTS
+  description: AparatExpressGraphQLTS is a TypeScript-based GraphQL web service designed to mimic the functionality of the popular video sharing platform Aparat (similar to YouTube). This project utilizes the Express framework to create a custom GraphQL API, providing users with features for uploading, viewing, and interacting with videos and other media content.
+  language   : TypeScript
+  tags       : aparat, graphql, javascript, js, ts, typescript
+
+[Repo] (Page 1, Index 19)
+  name       : API-Sarrafchi
+  url        : https://github.com/BaseMax/API-Sarrafchi
+  description: Sarrafchi: API and web service to get live currency rates in Free Market.
+  language   : PHP
+  tags       : api, sarrafchi, currency-exchange-rates, currency-rates, currency-api, currency-conversion
+
+[Repo] (Page 1, Index 20)
+  name       : api-webservice-COVID-19
+  url        : https://github.com/BaseMax/api-webservice-COVID-19
+  description: API: Web Service Coronavirus Disease 2019 (COVID-19), Access to live data of outbreak of novel coronavirus disease 2019 using PHP.
+  language   : HTML
+  tags       : covid-19, covid19, covid-virus, covid, covid-2019, coronavirus, coronavirus-api, coronavirus-real-time, coronavirus-info, php, php-api, api, freeapi, api-free, free-api, api-covid-19, api-covid, covid-api, covid-data, coronavirus-tracking
+
+[Repo] (Page 1, Index 21)
+  name       : ArchiveAPIGo
+  url        : https://github.com/BaseMax/ArchiveAPIGo
+  description: Archive API is a RESTful API built with the Go programming language and the Echo framework. It provides functionality to manage a file archive, including saving files, searching within files, adding captions and descriptions, assigning categories, editing files, deleting files, sorting and filtering files, user authentication, generating link.
+  language   : Go
+  tags       : api-restful, go, go-restful, restful, restful-api, archive-go, go-archive, restful-go
+
+[Repo] (Page 1, Index 22)
+  name       : ArrayListC
+  url        : https://github.com/BaseMax/ArrayListC
+  description: This is a simple implementation of an ArrayList in C using a struct, a pointer to the struct and a pointer to the array. The array is static and the size of the array is defined when the ArrayList is created.
+  language   : C
+  tags       : array, arraylist, arraylist-c, c, c-array, array-c
+
+[Repo] (Page 1, Index 23)
+  name       : ArrayListPython
+  url        : https://github.com/BaseMax/ArrayListPython
+  description: This is a simple implementation of ArrayList in Python, full-featured and easy to use with more than 20 methods.
+  language   : Python
+  tags       : array, array-list, arraylist, data-structures, data-structures-and-algorithms, datastructure, datastructures-algorithms, py, py3, python, python3
+
+[Repo] (Page 1, Index 24)
+  name       : ArtASCIIGeneratorImage
+  url        : https://github.com/BaseMax/ArtASCIIGeneratorImage
+  description: A command-line tool for generating ART ASCII from images.
+  language   : Python
+  tags       : python, art-ascii, ascii, ascii-art, ascii-art-converter, ascii-art-generator, ascii-art-logo, pil, art, ascii-graphics
+
+[Repo] (Page 1, Index 25)
+  name       : ArtASCIIGeneratorImagePython
+  url        : https://github.com/BaseMax/ArtASCIIGeneratorImagePython
+  description: A tiny tool for generating ART ASCII from images powered by Python pywhatkit.
+  language   : Python
+  tags       : art, art-ascii, ascii, ascii-art, ascii-art-converter, ascii-art-generator, ascii-art-logo, ascii-arts, py, python, python3
+
+[Repo] (Page 1, Index 26)
+  name       : ArtGraphVisualization
+  url        : https://github.com/BaseMax/ArtGraphVisualization
+  description: This is a simple collection of scripts to visualize the art graph with NetworkX and Matplotlib.
+  language   : Python
+  tags       : graph, graph-drawing, graph-drawing-framework, graphs, math, mathematics, mathematics-education, mathematics-notes, matplotlib, matplotlib-figures, matplotlib-pyplot, networkx, networkx-drawing-utilities, networkx-graph, networkx-library, networkx-tutorial, py, python
 
