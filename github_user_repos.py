@@ -19,6 +19,23 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+def init_repo_text_file(filepath: str):
+    """Create or clear the repo info text file at the start."""
+    with open(filepath, "w", encoding="utf-8") as f:
+        pass
+
+
+def append_repo_info_to_file(filepath: str, repo_info: Dict):
+    with open(filepath, "a", encoding="utf-8") as f:
+        f.write("[Repo]\n")
+        f.write(f"  name       : {repo_info['name']}\n")
+        f.write(f"  url        : {repo_info['url']}\n")
+        f.write(f"  description: {repo_info['description']}\n")
+        f.write(f"  language   : {repo_info['top_language']}\n")
+        tags_str = ', '.join(repo_info['tags']) if repo_info['tags'] else 'None'
+        f.write(f"  tags       : {tags_str}\n\n")
+
+
 def clean_username(input_str: str) -> str:
     """Extract and clean GitHub username from input string."""
     input_str = input_str.strip()
@@ -106,12 +123,16 @@ def validate_username(username: str, token: Optional[str] = None) -> Tuple[bool,
     return True, data
 
 
-def get_all_repos(username: str, token: Optional[str] = None) -> List[Dict]:
+def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Optional[str] = None) -> List[Dict]:
     """Fetch all public repositories of user with pagination, logging each repo info."""
     repos = []
     page = 1
     per_page = 100
     logger.info("Fetching repositories...")
+
+    if text_file_path:
+        init_repo_text_file(text_file_path)
+
     while True:
         url = f"{GITHUB_API}/users/{username}/repos"
         params = {"per_page": per_page, "page": page, "type": "public", "sort": "full_name"}
@@ -135,6 +156,9 @@ def get_all_repos(username: str, token: Optional[str] = None) -> List[Dict]:
                 f"  tags       : {', '.join(repo_info['tags']) if repo_info['tags'] else 'None'}"
             )
         
+            if text_file_path:
+                append_repo_info_to_file(text_file_path, repo_info)
+
         logger.info(f"Page {page}: Retrieved {len(page_data)} repositories")
         page += 1
         time.sleep(0.1)
@@ -237,21 +261,28 @@ def main():
     username = clean_username(args.username)
     logger.info(f"Detected username: {username}")
 
+    if args.token:
+        logger.info("Using provided GitHub API token.")
+    else:
+        logger.warning("No GitHub API token provided. Rate limits may apply.")
+
     valid, user_data_or_err = validate_username(username, token=args.token)
     if not valid:
         logger.error(f"Validation failed: {user_data_or_err}")
         sys.exit(1)
 
-    logger.info(f"User '{username}' validated. Fetching repositories...")
-    repos = get_all_repos(username, token=args.token)
-    logger.info(f"Total public repositories found: {len(repos)}")
-
-    repo_infos = [extract_repo_info(repo, token=args.token) for repo in repos]
-
     output_dir = args.output_dir.rstrip("/\\")
     csv_path = f"{output_dir}/{username}_repos.csv"
     json_path = f"{output_dir}/{username}_repos.json"
     html_path = f"{output_dir}/{username}_repos.html"
+    txt_path = f"{output_dir}/{username}_repos.txt"
+
+    logger.info(f"User '{username}' validated. Fetching repositories...")
+
+    repos = get_all_repos(username, token=args.token, text_file_path=txt_path)
+    logger.info(f"Total public repositories found: {len(repos)}")
+
+    repo_infos = [extract_repo_info(repo, token=args.token) for repo in repos]
 
     save_csv(repo_infos, csv_path)
     save_json(repo_infos, json_path)
