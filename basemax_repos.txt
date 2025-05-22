@@ -3813,3 +3813,1886 @@
   language   : HTML
   tags       : docker, docker-compose, meilisearch, meilisearch-php, php, 118, php-meilisearch, call-center, call-center-analytics, callcenter, search-engine, search-engine-optimization, search-engines, call-centre, call-centre-analysis, callcentre
 
+[Repo] (Page 6, Index 46)
+  name       : OSDetect
+  url        : https://github.com/BaseMax/OSDetect
+  description: A tiny header file for detects the operating system in C based program.
+  language   : C
+  tags       : os, operation-systems, operation-system, operationsystem, os-detection, c, os-detect
+
+[Repo] (Page 6, Index 47)
+  name       : own-forth-bytecode-compiler
+  url        : https://github.com/BaseMax/own-forth-bytecode-compiler
+  description: Just a attempt to implement a own bytecode compiler.
+  language   : C
+  tags       : c, bytecode, bytecode-interpreter, bytecode-compiler, forth, virtual-machine, vm, interpreter, interpreter-vm
+
+[Repo] (Page 6, Index 48)
+  name       : PantelMessenger
+  url        : https://github.com/BaseMax/PantelMessenger
+  description: The Demo of Pantel Messenger for global connection.
+  language   : 
+  tags       : pantel, pantelmessenger, pantel-messenger, messenger, messenger-platform, messenger-client, messengers, messenger-server, chat, chat-application, chatroom, chatapp, cross-platform
+
+[Repo] (Page 6, Index 49)
+  name       : PartitionArrayPHP
+  url        : https://github.com/BaseMax/PartitionArrayPHP
+  description: Partition an array into multiple arrays using PHP.
+  language   : PHP
+  tags       : php, partitionarray, partition-array, array-partition, array-chunk, array-chunks, array-chunk-php, array-chunks-php
+
+[Repo] (Page 6, Index 50)
+  name       : PermutationPatterns2025
+  url        : https://github.com/BaseMax/PermutationPatterns2025
+  description: International Conference on Permutation Patterns 2025, held in St Andrews, Scotland.
+  language   : TeX
+  tags       : 2025, conference, permutation, permutation-pattern, permutations, talk, talks, permutations-pattern, science-conference
+
+[Repo] (Page 6, Index 51)
+  name       : persian-hex-system
+  url        : https://github.com/BaseMax/persian-hex-system
+  description: The Persian Hex System is a cultural and technical project inspired by Arash Mohammadi. Its goal is to create a uniquely Persian system to replace the traditional hexadecimal (hex) numbering system, designed specifically to reflect Iranian culture and Persian language. This project provides tools and scripts in multiple programming languages.
+  language   : Python
+  tags       : bash, bin, binary, c, computer, cpp, hex, persian, php, py, python, ruby, shell, hex-system
+
+[Repo] (Page 6, Index 52)
+  name       : persian-holidays-api
+  url        : https://github.com/BaseMax/persian-holidays-api
+  description: An API for fetching Persian (Shamsi), Gregorian, and Hijri holidays. The project scrapes holiday data from the time.ir website, processes the data, and outputs it as JSON files. This API allows developers to retrieve holiday data for any given year and month, with the dates converted into both Persian and English digits.
+  language   : Python
+  tags       : api, api-json, holiday, holiday-api, holiday-calculation, holidays, holidays-api, holidays-calendar, json
+
+[Repo] (Page 6, Index 53)
+  name       : Persian-Swear-Censor
+  url        : https://github.com/BaseMax/Persian-Swear-Censor
+  description: Persian Swear Censor is a Python script that censors offensive words in Persian text by replacing them with asterisks. The script reads a list of offensive words from a file, sorts them by length, and then replaces occurrences of these words in the input text.
+  language   : Python
+  tags       : python, swear, swear-filter, swearing-detector, swearword, swearwords
+
+[Repo] (Page 6, Index 54)
+  name       : PersianColors
+  url        : https://github.com/BaseMax/PersianColors
+  description: List of Persian Colors and hex colors for CSS, SCSS, PHP, JS, Python, and Ruby.
+  language   : Rust
+  tags       : rgb, color, colors, persian-color, persian-colors, color-persian, colors-persian, css, scss, hex-color, hex-colors
+
+[Repo] (Page 6, Index 55)
+  name       : persistent-ssh-proxy
+  url        : https://github.com/BaseMax/persistent-ssh-proxy
+  description: SSH Tunnel Keeper is a simple Bash script to keep a SOCKS5 proxy tunnel via SSH alive, automatically reconnecting when the connection drops.
+  language   : Shell
+  tags       : bash, linux, ssh, ssh-client, ssh-tunnel, ssh-tunnel-guide, ssh-tunnel-tool, ssh-tunneling, ssh-tunnels, vpn
+
+[Repo] (Page 6, Index 56)
+  name       : PharmacyMVCPHP
+  url        : https://github.com/BaseMax/PharmacyMVCPHP
+  description: A Pharmacy Management System built with PHP using the MVC architecture. The system will provide API endpoints for managing the inventory and orders of a pharmacy.
+  language   : PHP
+  tags       : mvc, pharmacy, pharmacy-management-system, php, php-pharmacy, php8
+
+[Repo] (Page 6, Index 57)
+  name       : PhoneNumberFilter
+  url        : https://github.com/BaseMax/PhoneNumberFilter
+  description: This is a simple program that filters phone numbers from a text file. It is written in Go. Finally the program sorts the numbers by its name with support of UTF-8 characters and removes duplicates numbers.
+  language   : Go
+  tags       : contacts, go, golang, phone-number, phone-number-input, phone-numbers, phonenumber, phonenumbers, sorting, sorting-algorithms, phone-number-sort
+
+[Repo] (Page 6, Index 58)
+  name       : php-cli-apps
+  url        : https://github.com/BaseMax/php-cli-apps
+  description:  A simple, fast, and fun example for building command line apps in PHP. 
+  language   : PHP
+  tags       : php, cli-app, cli, command-line, command-line-tool, command-line-app, command-line-interface, command-line-parser, command-line-tools, command-line-arguments, command-line-arguments-parser
+
+[Repo] (Page 6, Index 59)
+  name       : PHP-FPM-WindowsServer
+  url        : https://github.com/BaseMax/PHP-FPM-WindowsServer
+  description: A batch script to keep PHP-FPM service always running, if disconnected will reconnect instant. (Windows Server)
+  language   : Batchfile
+  tags       : bat, batch, batch-script, batch-file, bat-file, php, php-fpm, php-config, php-configuration, windows-server, windows-server-2016, windows-server-2019, windows-server-2008, windows-server-2012, windows-server-platform
+
+[Repo] (Page 6, Index 60)
+  name       : PHP-Ippanel-SMS
+  url        : https://github.com/BaseMax/PHP-Ippanel-SMS
+  description: A PHP-based class to communicate with ippanel.com webservice to send a fast SMS to your client, its pattern sending and purpose of this kind of SMSs are fast sending and send verification code.
+  language   : PHP
+  tags       : php, sms, ippanel, sms-gateway, sms-api, sms-client, sms-service, sms-verification
+
+[Repo] (Page 6, Index 61)
+  name       : php-jwt-example
+  url        : https://github.com/BaseMax/php-jwt-example
+  description: PHP JWT example.
+  language   : PHP
+  tags       : php, jwt, jwt-authentication, jwt-token, jwt-auth, jwt-tokens, jwt-bearer-tokens, jwt-server, jwt-php, php-jwt
+
+[Repo] (Page 6, Index 62)
+  name       : php-mirror-proxy
+  url        : https://github.com/BaseMax/php-mirror-proxy
+  description: A simple PHP script that mirrors incoming HTTP requests to a specified target URL, maintaining the same HTTP method, headers, and body content. This proxy supports GET, POST, PUT, DELETE, PATCH, and other HTTP methods, forwarding them to the desired endpoint using cURL.
+  language   : PHP
+  tags       : mirror, php, php-proxy, php-mirror
+
+[Repo] (Page 6, Index 63)
+  name       : php-network-check
+  url        : https://github.com/BaseMax/php-network-check
+  description: A lightweight PHP script that logs incoming HTTP requests, capturing details like method, headers, body, and file uploads. It sends real-time reports to a Telegram chat, making it ideal for developers and admins to monitor traffic, debug APIs, and track server activity. Easy to set up and customize for both development and production environments.
+  language   : PHP
+  tags       : file, get, http, network, network-sniffer, network-sniffing, php, post, network-check, bot, telegram, telegram-bot
+
+[Repo] (Page 6, Index 64)
+  name       : PHP-Prettier-Precommit
+  url        : https://github.com/BaseMax/PHP-Prettier-Precommit
+  description: You can create a new repository by using this template, so by the way all of your PHP projects will have a nice and good pre-commit and prettier config.
+  language   : 
+  tags       : php, pre-commit, prettier, prettier-config, prettifier, pre-commit-hook, template, repository-template, repository-templates
+
+[Repo] (Page 6, Index 65)
+  name       : PHPAS
+  url        : https://github.com/BaseMax/PHPAS
+  description: PHP Auto Style: A tool for format and beautify the style of PHP code with my style.
+  language   : PHP
+  tags       : php, parser, scanner, lexer, lexer-parser, beautifier, formatter, php-code-cleaner, php-code-formatter, php-code-beautify, beautify-php, beautify, scanners, parsers
+
+[Repo] (Page 6, Index 66)
+  name       : PHPBigBlueButtonAPI
+  url        : https://github.com/BaseMax/PHPBigBlueButtonAPI
+  description: A small tools to connect with BigBlueButton API and create room and join and more works.
+  language   : PHP
+  tags       : bigbluebutton, bigbluebutton-api, bbb, bbb-api, php, bigbluebutton-api-sample, bigbluebutton-api-example, bigbluebutton-api-service, bigbluebutton-service, bbb-service
+
+[Repo] (Page 6, Index 67)
+  name       : PHPCodeOptimizer
+  url        : https://github.com/BaseMax/PHPCodeOptimizer
+  description: Optimize And Minify PHP Code.
+  language   : Go
+  tags       : go, php, minify, optimization, minifying, compression, compress, compressor, php7, php5, cli
+
+[Repo] (Page 6, Index 68)
+  name       : PHPCSRF
+  url        : https://github.com/BaseMax/PHPCSRF
+  description: Simple PHP Application with Cross-Site Request Forgery (CSRF)
+  language   : PHP
+  tags       : None
+
+[Repo] (Page 6, Index 69)
+  name       : PHPDomainParser
+  url        : https://github.com/BaseMax/PHPDomainParser
+  description: A tiny PHP-base library to parse domain address with a limit format allowed list.
+  language   : PHP
+  tags       : php, php-function, php-functions, php-library, php-lib, php-libray, php-code, domain-parser, domain, url-parser, url-parsing
+
+[Repo] (Page 6, Index 70)
+  name       : PHPEDB
+  url        : https://github.com/BaseMax/PHPEDB
+  description: PHP Easy DB (Database) is an easy library to manage and control the database.
+  language   : PHP
+  tags       : php, php7, php5, database, database-access, database-connector, database-management, php-database, php-database-connection, php-database-class, php-database-framework, php-db, oop, php-oop, php-class, php-classes
+
+[Repo] (Page 6, Index 71)
+  name       : PHPFakeUserAvatar
+  url        : https://github.com/BaseMax/PHPFakeUserAvatar
+  description: PHP FakeUserAvatar is an open and free RESTful API project built on PHP 8.2, designed to generate fake user information with avatars or without avatars.
+  language   : PHP
+  tags       : api-php, php, php-api, api, fake-user, fake-users, json, restful, fake-information, user-fake
+
+[Repo] (Page 6, Index 72)
+  name       : PHPGmailEmailSender
+  url        : https://github.com/BaseMax/PHPGmailEmailSender
+  description: A ready-to-use PHP script for sending Emails with an HTML Template will use a Gmail account as the sender and you will not need any email server. Powered by PHPMailer.
+  language   : PHP
+  tags       : gmail, google, mail, php, php-mailer, php7, php8, phpmailer, phpmailer-google, phpmailer-library, phpmailer-using, mail-gmail, php-gmail
+
+[Repo] (Page 6, Index 73)
+  name       : PHPJalaliDate
+  url        : https://github.com/BaseMax/PHPJalaliDate
+  description: A tiny code to convert date into Jalali calendar using pure PHP code without extra library and code. (gregorian_to_jalali)
+  language   : PHP
+  tags       : php, jalali-datetime, jalali-date, date-converter
+
+[Repo] (Page 6, Index 74)
+  name       : PHPMultiExplode
+  url        : https://github.com/BaseMax/PHPMultiExplode
+  description: Tiny function to split a string by a array of the string for PHP.
+  language   : PHP
+  tags       : php, explode, split, splitter, splitting, splitsoftware, split-testing, array, string
+
+[Repo] (Page 6, Index 75)
+  name       : phpMusselBook
+  url        : https://github.com/BaseMax/phpMusselBook
+  description: Documentation for phpMussel.
+  language   : 
+  tags       : book, phpmussel, phpmussel-document, book-source-code, book-pdf, pdf, pdf-document, php-book, book-php
+
+[Repo] (Page 6, Index 76)
+  name       : PHPNiceCaptcha
+  url        : https://github.com/BaseMax/PHPNiceCaptcha
+  description: Nice Captcha with good quality and security for keeping safe from bots using PHP.
+  language   : PHP
+  tags       : php, captcha, captcha-image, captcha-generator, captcha-generation, captcha-service, php-captcha, captcha-php, image-captcha
+
+[Repo] (Page 6, Index 77)
+  name       : PHPSMSAmazonAWS
+  url        : https://github.com/BaseMax/PHPSMSAmazonAWS
+  description: A quick example of sending SMS with AWS SNS Using Amazon Service.  (PHP)
+  language   : PHP
+  tags       : php, aws, amazon, amazon-web-services, amazon-s3, amazon-lambda, amazon-api, amazon-sns, amazon-sns-client, amazon-sms, sms-api, sms-gateway, sms, sms-client, sms-service, sms-verification, sms-sdk, php7
+
+[Repo] (Page 6, Index 78)
+  name       : PHPTaskDDD
+  url        : https://github.com/BaseMax/PHPTaskDDD
+  description: This is a PHP-based RESTful API that manages tasks using Domain Driven Design (DDD) architecture. The API allows users to create, read, update, and delete tasks.
+  language   : PHP
+  tags       : ddd, ddd-architecture, ddd-example, ddd-patterns, ddd-php, ddd-sample, php, php-ddd, php8
+
+[Repo] (Page 6, Index 79)
+  name       : PHPTinyCms
+  url        : https://github.com/BaseMax/PHPTinyCms
+  description: A mini, tiny content manager system (CMS) for general purpose and using for sites based on PHP.
+  language   : PHP
+  tags       : cms, cms-framework, php, php-cms, php-library, php-cms-admin, cms-php-admin, cms-php-site, site, website-cms, website-system, website-php, cms-backend, cms-module, tinycms, minicms, hacktoberfest, hacktoberfest2020
+
+[Repo] (Page 6, Index 80)
+  name       : PHPTodoListAJAX
+  url        : https://github.com/BaseMax/PHPTodoListAJAX
+  description: This is a simple PHP web-application that let you create, edit, and delete the tasks in the simplest way. (HTML, CSS, JS, PHP)
+  language   : PHP
+  tags       : mariadb, mysql, php, php7, todo-app, todo-list, todoapp, todolist, ajax, webapp
+
+[Repo] (Page 6, Index 81)
+  name       : pi
+  url        : https://github.com/BaseMax/pi
+  description: Small program in C language to calculate pi value.
+  language   : C
+  tags       : pi, c, pi-calculator, monte-carlo, monte-carlo-methods
+
+[Repo] (Page 6, Index 82)
+  name       : PiCalculatorWebJS
+  url        : https://github.com/BaseMax/PiCalculatorWebJS
+  description: Calculating Pi number without limitation until 10k digits or more in your browser powered by JS without any third party library!
+  language   : JavaScript
+  tags       : js, javascript, pi, pi-calculator, calculator-pi, pi-digits, pi-digit, pi-number, math, mathematics, arctan
+
+[Repo] (Page 6, Index 83)
+  name       : pico-5led-brightness-blink
+  url        : https://github.com/BaseMax/pico-5led-brightness-blink
+  description: This project demonstrates how to control a set of 5 LEDs connected to a Raspberry Pi Pico. The LEDs respond to two buttons, with functionality for toggling ON/OFF states, adjusting brightness with a potentiometer, and a special mode when both buttons are pressed simultaneously.
+  language   : Python
+  tags       : board, led, raspberry-pi, raspberry-pi-pico, wokwi, wokwi-example
+
+[Repo] (Page 6, Index 84)
+  name       : PikachuPixelCSS
+  url        : https://github.com/BaseMax/PikachuPixelCSS
+  description: Trying to create pixel art Pikachu in pure CSS. (Not SCSS, Without JS)
+  language   : HTML
+  tags       : css, css3, css-art, css3-art, art
+
+[Repo] (Page 6, Index 85)
+  name       : PiMathImages
+  url        : https://github.com/BaseMax/PiMathImages
+  description: Mathematics Art: Generate stunning images show the beauty hidden in PI digits using Python.
+  language   : Python
+  tags       : pi, math-art, math-artwork, mathematics, mathematics-art, mathematic-art, art-experience, art-gallery, python
+
+[Repo] (Page 6, Index 86)
+  name       : PiProfHappyBirthDay
+  url        : https://github.com/BaseMax/PiProfHappyBirthDay
+  description: Drawing art work and Happy Birthday my master using Pi digit numbers.
+  language   : Python
+  tags       : python, pi, art, drawing, draw, drawing-app, python-pil, python-pillow
+
+[Repo] (Page 6, Index 87)
+  name       : PlayPiano
+  url        : https://github.com/BaseMax/PlayPiano
+  description: Implement and simulate piano on web page.
+  language   : CSS
+  tags       : html, html5, css, css3, music, music-player, piano, piano-keyboard, pianobar, piano-fingering, pianoview, js, purejs, player, players
+
+[Repo] (Page 6, Index 88)
+  name       : PolynomialDivideCPP
+  url        : https://github.com/BaseMax/PolynomialDivideCPP
+  description: Implement algorithm of divide operator of polynomial in C++.
+  language   : C++
+  tags       : cpp, divide, polynomial-calculator, polynomial, polynomials, polynomial-equations, polynomial-division, division, math, algebra
+
+[Repo] (Page 6, Index 89)
+  name       : PopularAndroidSource
+  url        : https://github.com/BaseMax/PopularAndroidSource
+  description: 
+  language   : Smali
+  tags       : None
+
+[Repo] (Page 6, Index 90)
+  name       : PopularQuestions
+  url        : https://github.com/BaseMax/PopularQuestions
+  description: Some popular questions in programming field for teacher.
+  language   : C++
+  tags       : programming-question, programming-university, university, university-questions, university-exam
+
+[Repo] (Page 6, Index 91)
+  name       : POSSF
+  url        : https://github.com/BaseMax/POSSF
+  description: Persian Open Source Software Festival (possf.ir)
+  language   : JavaScript
+  tags       : festival, festivals, festival-website, open-source-community, open-source, open-source-festival, hacktoberfest, persian, persian-event, events, event, event-website, possf, possf-event, hacktoberfest2020
+
+[Repo] (Page 6, Index 92)
+  name       : POSSF-Web
+  url        : https://github.com/BaseMax/POSSF-Web
+  description: New edited template of POSSF event website, it's an open-source festival event to support programmer and developer round to GitHub and Git.
+  language   : HTML
+  tags       : possf, event, event-website, css, js, html5, css3, website, festival, festival-website
+
+[Repo] (Page 6, Index 93)
+  name       : PostfixEvaluatorC
+  url        : https://github.com/BaseMax/PostfixEvaluatorC
+  description: This is a postfix evaluator written in C. It takes a postfix expression as input and evaluates it. It supports the following operators: + - * / ^ ( )
+  language   : C
+  tags       : c, evaluator, postfix, postfix-evaluation, stack, postfix-evaluator
+
+[Repo] (Page 6, Index 94)
+  name       : PowerHash
+  url        : https://github.com/BaseMax/PowerHash
+  description: Design and development Crypto algorithms.
+  language   : C++
+  tags       : crypto, crypto-library, performance, performance-testing, performance-test, optimize, algorithm, algorithms
+
+[Repo] (Page 6, Index 95)
+  name       : PQ-Calculator
+  url        : https://github.com/BaseMax/PQ-Calculator
+  description: P,Q-formula calculator program using C++ (highest performance, i128 support)
+  language   : C++
+  tags       : p-quality, pq, p-q, cpp
+
+[Repo] (Page 6, Index 96)
+  name       : PrayTimesRust
+  url        : https://github.com/BaseMax/PrayTimesRust
+  description: TimePrayRust is a powerful and versatile Muslim prayer time calculator implemented in Rust. This project is built upon the PrayTimes.org library, a widely recognized resource for accurate prayer time calculations. Whether you're developing a website, application, or any other digital platform, TimePrayRust offers a seamless way to integrate accurat
+  language   : Rust
+  tags       : iran, islam, pray, pray-time, pray-times, rust, time-pray, rust-pray
+
+[Repo] (Page 6, Index 97)
+  name       : PredictionWikipediaMathematicsVisitsResearch
+  url        : https://github.com/BaseMax/PredictionWikipediaMathematicsVisitsResearch
+  description: Improving Prediction of Daily Visits of Wikipedia Mathematics Topics using Graph Neural Networks
+  language   : Python
+  tags       : python, wikipedia, research, article, graph-neural-networks, graph-neural-network, neural-network, neural-networks, neural-network-example, neural-network-architectures, neural-network-tutorials, cuda, torch, pytorch, gconvgru, convgru
+
+[Repo] (Page 6, Index 98)
+  name       : PrefixEvaluatorC
+  url        : https://github.com/BaseMax/PrefixEvaluatorC
+  description: This is a prefix evaluator written in C. It takes a prefix expression as input and evaluates it. It supports the following operators: + - * / ^ ( )
+  language   : C
+  tags       : c, evaluator, prefix, stack, prefix-evaluator, prefix-evaluation
+
+[Repo] (Page 6, Index 99)
+  name       : PriceEequationCalculator
+  url        : https://github.com/BaseMax/PriceEequationCalculator
+  description: Tiny Calculator: Price equations allow you to automatically update your price with the price fluctuations.
+  language   : PHP
+  tags       : php, php-library, library-php, price-evaluation, calculator, calculations, calculator-app, calculate, calculator-php, php-calculator
+
+[Repo] (Page 6, Index 100)
+  name       : printf-in-asm
+  url        : https://github.com/BaseMax/printf-in-asm
+  description: 
+  language   : C
+  tags       : None
+
+[Repo] (Page 7, Index 1)
+  name       : PrioritySortedQueueGo
+  url        : https://github.com/BaseMax/PrioritySortedQueueGo
+  description: This is a priority sorted queue written in Go (Golang).
+  language   : Go
+  tags       : go, golang, priority, priority-list, priority-queue, priority-queue-from-scratch, priority-queue-using-array, priority-queues, priorityqueue, priority-sorted-queue, sortedqueue
+
+[Repo] (Page 7, Index 2)
+  name       : PriorityUnsortedQueueGo
+  url        : https://github.com/BaseMax/PriorityUnsortedQueueGo
+  description: This is a priority unsorted queue written in Go (Golang).
+  language   : Go
+  tags       : go, golang, priority, priority-list, priority-queue, priorityqueue, priority-unsorted, unsorted-queue, unsortedpriority, unsortedqueue, priority-queue-from-scratch, priority-queue-using-array, priority-queues
+
+[Repo] (Page 7, Index 3)
+  name       : process-killer
+  url        : https://github.com/BaseMax/process-killer
+  description: A Python application to manage system processes. The app provides functionality to list, kill, and manage processes based on their PID (Process ID) or name. It also includes features to monitor system resources and shutdown the system.
+  language   : Python
+  tags       : kill-process, pid, process-control, process-killer, process-management, process-manager, process-monitor, process-monitoring, py, python
+
+[Repo] (Page 7, Index 4)
+  name       : ProductsGraphQLTS
+  url        : https://github.com/BaseMax/ProductsGraphQLTS
+  description: This project is an e-commerce application built with GraphQL and TypeScript using the NestJS framework. It provides various functionalities for managing products, categories, and user authentication. The project includes features such as user registration, login, authentication, logout, product management.
+  language   : TypeScript
+  tags       : graphql, graphql-ts, javascript, js, nest, ts, ts-graphql, typescript, typescript-graphql
+
+[Repo] (Page 7, Index 5)
+  name       : ProgrammerSocialNetworkGraphQL
+  url        : https://github.com/BaseMax/ProgrammerSocialNetworkGraphQL
+  description: This is a GraphQL API for a programmer/developer social network that allows users to view, filter, sort, add, edit, and delete developers based on their programming skills.
+  language   : TypeScript
+  tags       : graphql, javascript, js, nestjs, node, nodejs, ts, typescript
+
+[Repo] (Page 7, Index 6)
+  name       : PromisesAsynchronousJS
+  url        : https://github.com/BaseMax/PromisesAsynchronousJS
+  description: If you are a JS dev, After learning the fundamentals. You have to learn Async, Await, Callbacks and Promises. This repository provide several easy examples which can show you how they are working.
+  language   : JavaScript
+  tags       : async, asynchronous, asynchronous-programming, asynchronously, await, javascript, js, promises, promises-async-await, promises-concurrent, promises-in-javascript
+
+[Repo] (Page 7, Index 7)
+  name       : proxycheckblock-whmcs-plugin
+  url        : https://github.com/BaseMax/proxycheckblock-whmcs-plugin
+  description: A simple WHMCS hook that checks if the client is using a proxy/VPN.
+  language   : PHP
+  tags       : whmcs, whmcs-module, whmcs-addon, whmcs-installation, whmcs-secuity, whmcs-secure, secure-communication, secure, secuity, proxy-detection, whmcs-proxy-detection
+
+[Repo] (Page 7, Index 8)
+  name       : pyenv-inspector
+  url        : https://github.com/BaseMax/pyenv-inspector
+  description: A tool to visualize and debug Python virtual environments, packages, and dependencies.
+  language   : Python
+  tags       : cli, env, environment, environment-variables, info, py, py3, pyenv, python, python3, python-info
+
+[Repo] (Page 7, Index 9)
+  name       : PythonDataExcelReader
+  url        : https://github.com/BaseMax/PythonDataExcelReader
+  description: Just a tiny program to read Excel rows as array in Python and write into JSON format.
+  language   : Python
+  tags       : python, python3, python-3, python2, excel, excel-import, excelreader, excelparser, excel-to-json, exceldatareader, excel-parser
+
+[Repo] (Page 7, Index 10)
+  name       : PythonExpressionInterpreter
+  url        : https://github.com/BaseMax/PythonExpressionInterpreter
+  description: Simple Math Interpreter in Python
+  language   : Python
+  tags       : python, interpreter, math-expressions, mathematical-expressions, math-expression-parser, math-expression-evaluator, math-expression-solver, lexer, parser
+
+[Repo] (Page 7, Index 11)
+  name       : PythonImage2PencilSketch
+  url        : https://github.com/BaseMax/PythonImage2PencilSketch
+  description: Convert your images into sketches using Python OpenCV.
+  language   : Python
+  tags       : image, image-analysis, image-processing, opencv, opencv-python, opencv3, py, python, python3
+
+[Repo] (Page 7, Index 12)
+  name       : PyTreeView
+  url        : https://github.com/BaseMax/PyTreeView
+  description: pyTree is a python class and library to display Tree (Tree View) from array, object, or JSON.
+  language   : Python
+  tags       : python, py, tree, tree-structure, treeview, treemap, tree-view, json
+
+[Repo] (Page 7, Index 13)
+  name       : QRCodeManagmentGraphQL
+  url        : https://github.com/BaseMax/QRCodeManagmentGraphQL
+  description: A GraphQL-based project that allows you to generate QR code images and provides routes for various operations related to QR codes. It provides functionality to convert text or binary data to QR code images, as well as converting QR code images back to data. Additionally, it includes a route to save QR codes with unique slugs.
+  language   : TypeScript
+  tags       : graphql, javascript, js, ts, typescript
+
+[Repo] (Page 7, Index 14)
+  name       : QRLinkBatch
+  url        : https://github.com/BaseMax/QRLinkBatch
+  description: Generate and download QR codes in bulk from a list of URLs, all within your browser.
+  language   : JavaScript
+  tags       : barcode, barcode-generator, barcodes, javascript, js, qrcode, qrcode-generator, qrcode-generator-using-javascript, barcode-generators, qrcode-batch
+
+[Repo] (Page 7, Index 15)
+  name       : QuadraticEquationCalculator
+  url        : https://github.com/BaseMax/QuadraticEquationCalculator
+  description: Quadratic Solver: Quadratic Equation Calculator (A X^2 + B X^1 + D = 0)
+  language   : JavaScript
+  tags       : js, javascript, quadratic, quadratic-equations, quadratic-solver, solve-quadratic, solver-quadratic, equation, equations, equation-solver
+
+[Repo] (Page 7, Index 16)
+  name       : QuestionnaireSystem
+  url        : https://github.com/BaseMax/QuestionnaireSystem
+  description: A php-based system script such as vote system to submit form and store it, finally it will show some chart for watching it.
+  language   : PHP
+  tags       : php, vote-system, questionnairesystem, questionnaire-system, php-questionnaire, chartjs-sample, chartjs-example, chartjs-using, chartjs, phpedb, phpedb-sample, phpedb-using, phpedb-example
+
+[Repo] (Page 7, Index 17)
+  name       : QueueC
+  url        : https://github.com/BaseMax/QueueC
+  description: This is a simple queue implementation in C using an array. The queue is implemented as a normal queue.
+  language   : C
+  tags       : c, data-structure, data-structures-algorithms, data-structures-and-algorithms, datastructure, datastructures, queue, queue-algorithm, queue-tasks, queues, queue-jobs
+
+[Repo] (Page 7, Index 18)
+  name       : QueueGo
+  url        : https://github.com/BaseMax/QueueGo
+  description: The implentation of queue structure in Go. The queue is a FIFO (First In First Out) data structure.
+  language   : Go
+  tags       : go, golang, queue, queues
+
+[Repo] (Page 7, Index 19)
+  name       : QueueLinkedListGo
+  url        : https://github.com/BaseMax/QueueLinkedListGo
+  description: This is a simple implementation of a queue using a linked-list in Go. This is a good example of how to use a linked-list in Go.
+  language   : Go
+  tags       : algorithm, algorithms-and-data-structures, data-structure, datastructure, ds, go, golang, linked-list, linkedlist, queue, queue-linked-list, linked-list-queue, linkedlist-queue, queue-linkedlist
+
+[Repo] (Page 7, Index 20)
+  name       : QuizTestAPIGo
+  url        : https://github.com/BaseMax/QuizTestAPIGo
+  description: This project is a Quiz Test RESTful API implemented in Go programming language. It allows users to create quizzes, take quizzes, and view quiz results. The API is designed to be simple, efficient, and easy to use.
+  language   : Go
+  tags       : go, go-api, golang, quiz-api, quizapp, restful, api-quiz, go-mongo, go-mongodb, mongo, mongodb
+
+[Repo] (Page 7, Index 21)
+  name       : QuoteAPIPython
+  url        : https://github.com/BaseMax/QuoteAPIPython
+  description: Build a RESTful API that generates random quotes. The quotes will be stored in a database and the API will expose endpoints for CRUD operations (Create, Read, Update, Delete).
+  language   : Python
+  tags       : fastapi, py, python, quote, quotes, restful
+
+[Repo] (Page 7, Index 22)
+  name       : RabbitMQOrderGo
+  url        : https://github.com/BaseMax/RabbitMQOrderGo
+  description: This project showcases an order processing system implemented using RabbitMQ as the message broker and the Go programming language. The system consists of a producer that sends orders to a RabbitMQ queue and a consumer that processes those orders and updates their status.
+  language   : Go
+  tags       : api, go, go-api, golang, order, rabbitmq, restful
+
+[Repo] (Page 7, Index 23)
+  name       : RamseyNumber
+  url        : https://github.com/BaseMax/RamseyNumber
+  description:  The research about Ramsey Number based on C.
+  language   : C
+  tags       : ramsey-numbers, ramsey, ramsey-theory, ramsey-property, ramsey-c, ramsey-program, ramsey-number-program, ramsey-numbers-program, research, research-data, research-data-repository, research-project, research-paper, research-tool, research-and-development, research-software-engineering, c, c-research, c-ramsey, c-ramsey-number
+
+[Repo] (Page 7, Index 24)
+  name       : RamseyNumberAnalyzer
+  url        : https://github.com/BaseMax/RamseyNumberAnalyzer
+  description: A program to analyze and check a specific colorize in Ramsey Number R(5, 5).
+  language   : C
+  tags       : ramsey-numbers, ramsey-theory, ramsey-number-program, ramsey-numbers-program, ramsey-program, research, research-project, research-data, research-tool, research-and-development, ramsey-43, r5-5, ramsey5-5, ramsey-5-5
+
+[Repo] (Page 7, Index 25)
+  name       : RamseyNumberGraph
+  url        : https://github.com/BaseMax/RamseyNumberGraph
+  description: The research about Ramsey Number based on Python.
+  language   : Python
+  tags       : ramsey-numbers, ramsey, ramsey-theory, ramsey-python, python3, python36, python2, python, python27, research, research-project, research-paper, research-data, research-software-engineering, research-data-repository, research-and-development, research-tool, ramsey-theorem, ramsey-number-program, ramsey-numbers-program
+
+[Repo] (Page 7, Index 26)
+  name       : RamseyNumberResearchData
+  url        : https://github.com/BaseMax/RamseyNumberResearchData
+  description: A archive repository for a research about colorize the Graphs.
+  language   : PHP
+  tags       : graph, ramsey-numbers, ramsey, ramsey-theory, ramsey-number-program, ramsey-numbers-program, ramsey-data, research, research-paper, research-project, research-and-development, research-data, research-data-repository, research-archive, research-backup, research-files, research-file
+
+[Repo] (Page 7, Index 27)
+  name       : RamseyNumbers
+  url        : https://github.com/BaseMax/RamseyNumbers
+  description: A research repository about the Ramsey numbers and explore the new data in the mathematics field to write an article using One Programming Language.
+  language   : PHP
+  tags       : one, onelang, one-lang, ramsey-numbers, ramsey, ramsey-theory, ramsey-number-program, ramsey-numbers-program, ramsey-property, ramsey-program, ramsey-one, one-ramsey, one-language, research-data-repository, search, research, research-project, research-paper, research-tool, research-data
+
+[Repo] (Page 7, Index 28)
+  name       : RandomProxyJs
+  url        : https://github.com/BaseMax/RandomProxyJs
+  description: Tiny Library for get random proxy (free).
+  language   : JavaScript
+  tags       : javascript, javascript-library, javascript-lib, js, js-library, js-libs, proxy, proxy-server, proxy-list, proxy-links, freeproxy, purejs, proxylist, getproxy, api, api-server
+
+[Repo] (Page 7, Index 29)
+  name       : RandomProxyRuby
+  url        : https://github.com/BaseMax/RandomProxyRuby
+  description:  Tiny Library for get random proxy (free).
+  language   : Ruby
+  tags       : ruby, gem, plugin, plugins, module, modules, proxy, proxy-list, getproxy, proxy-server, freeproxy, api, api-server
+
+[Repo] (Page 7, Index 30)
+  name       : RandomQuoteGRPC
+  url        : https://github.com/BaseMax/RandomQuoteGRPC
+  description: The Random Quote Generator server is built using TypeScript and gRPC. This application consists of three distinct services, all built upon the efficient gRPC protocol: User, Auth, and Quote. These services seamlessly interact with both one another and clients through the advanced gRPC protocol.
+  language   : TypeScript
+  tags       : grpc, grpc-javascript, grpc-js, grpc-typescript, nestjs, quote, quote-generator, quotes, typescript, javascript-grpc, js-grpc
+
+[Repo] (Page 7, Index 31)
+  name       : RandomRealNameAPIGo
+  url        : https://github.com/BaseMax/RandomRealNameAPIGo
+  description: A Go web-service API for generating random user names (gender-aware), An online and secure web service to create unique random usernames lists.
+  language   : Go
+  tags       : api, go, golang, web-service, webservice
+
+[Repo] (Page 7, Index 32)
+  name       : RandomRealNameCliGo
+  url        : https://github.com/BaseMax/RandomRealNameCliGo
+  description: A Go CLI program for generating random user names (gender-aware), A program to create unique random usernames lists.
+  language   : Go
+  tags       : cli, go, golang
+
+[Repo] (Page 7, Index 33)
+  name       : RandomRealNameFlask
+  url        : https://github.com/BaseMax/RandomRealNameFlask
+  description: A Python web-based application for generating random user-names (gender-aware), An online and secure service to create unique random usernames lists.
+  language   : Python
+  tags       : flask, python, faker, html, py, py3, python3, faker-python, fakerpy, fakerpython, pyfaker, userfake
+
+[Repo] (Page 7, Index 34)
+  name       : RandomRealNameFlaskAPI
+  url        : https://github.com/BaseMax/RandomRealNameFlaskAPI
+  description: A web service API for generating random user names (gender-aware), An Python-based web service to create unique random usernames lists. (JSON API)
+  language   : Python
+  tags       : api, api-rest, api-server, flask, flask-api, flask-application, flask-restful, py, python, python-api, python-api-demo, python-apis, python-flask, python3
+
+[Repo] (Page 7, Index 35)
+  name       : RandStringC
+  url        : https://github.com/BaseMax/RandStringC
+  description: Tiny program for generate random characters using C
+  language   : C
+  tags       : c, cli, random, random-number-generators, random-generation, randomization, randomizer, rand-str
+
+[Repo] (Page 7, Index 36)
+  name       : rate-limiter-ts
+  url        : https://github.com/BaseMax/rate-limiter-ts
+  description: This npm package provides a rate limiter middleware for Express applications. It helps prevent abuse of your API by limiting the number of requests that can be made from a specific IP address within a given time frame.
+  language   : TypeScript
+  tags       : javascript, js, rate-limiter, ts, typescript
+
+[Repo] (Page 7, Index 37)
+  name       : RationalNumber
+  url        : https://github.com/BaseMax/RationalNumber
+  description: A Rational Number class with supporting of + - * / < > >= <= != =.
+  language   : Java
+  tags       : rational-numbers, rational-number, fractional-calculus, fractional, fraction, fractions, java
+
+[Repo] (Page 7, Index 38)
+  name       : React-Auto-Build-GitHub-Actions
+  url        : https://github.com/BaseMax/React-Auto-Build-GitHub-Actions
+  description: Automate your ReactJS web build by getting help from GitHub Actions.
+  language   : JavaScript
+  tags       : cicd, github, github-action, github-actions, github-react, js, react, ts, github-action-react, react-cicd, react-github-action
+
+[Repo] (Page 7, Index 39)
+  name       : react-theme-switcher
+  url        : https://github.com/BaseMax/react-theme-switcher
+  description: A ReactJS-based switch to change style of page from Light to Dark or vice versa.
+  language   : JavaScript
+  tags       : react, reactjs, switch, switcher, light-dark-mode, light-dark-theme
+
+[Repo] (Page 7, Index 40)
+  name       : ReactCalculator
+  url        : https://github.com/BaseMax/ReactCalculator
+  description: The calculator project for parse the values with general operators. (Soon)
+  language   : 
+  tags       : None
+
+[Repo] (Page 7, Index 41)
+  name       : reactjs-todo-list
+  url        : https://github.com/BaseMax/reactjs-todo-list
+  description: Build A Todo List App with React from Scratch (Including Hooks, LocalStorage)
+  language   : JavaScript
+  tags       : reactjs, react, react-hooks, react-hook, react-hook-form, todolist, todoapp, todo-list, todo-app, js, javascript, css
+
+[Repo] (Page 7, Index 42)
+  name       : reactjs-todolist
+  url        : https://github.com/BaseMax/reactjs-todolist
+  description: Build A Todo List App with React with Class (Including Hooks)
+  language   : JavaScript
+  tags       : react, reactjs, reactjs-begin, hooks, react-hook, react-hooks, js, javascript, todolist, todoapp, todo-list, todo
+
+[Repo] (Page 7, Index 43)
+  name       : reactjs-todolist-redux
+  url        : https://github.com/BaseMax/reactjs-todolist-redux
+  description: Build A Todo List App with React with Class (Including Hooks, Redux)
+  language   : JavaScript
+  tags       : react, reactjs, js, javascript, redux, redux-store, redux-actions, react-redux, react-redux-demo, todo, todolist, todoapp, todo-list
+
+[Repo] (Page 7, Index 44)
+  name       : ReadableSubtitle
+  url        : https://github.com/BaseMax/ReadableSubtitle
+  description: Make readable the subtitle files.
+  language   : PHP
+  tags       : subtitles, subtitle, subtitles-parsing, subtitle-formats, subtitle-conversion, subtitledownloader, php, text-processing, text-processor
+
+[Repo] (Page 7, Index 45)
+  name       : real-time-notifications-nats-go
+  url        : https://github.com/BaseMax/real-time-notifications-nats-go
+  description: A repository showcasing the implementation of real-time notifications using NATS messaging system and the Go programming language. Learn how to build responsive applications with instant notifications.
+  language   : Go
+  tags       : go, golang, nats, nats-messaging, nats-streaming, real-time-notification, real-time-notifications, go-nats, nats-go, nats-real-time
+
+[Repo] (Page 7, Index 46)
+  name       : RecipeSharingGraphQL
+  url        : https://github.com/BaseMax/RecipeSharingGraphQL
+  description: This is a TypeScript-based GraphQL API for a recipe sharing platform. It allows users to query for recipes, search recipes by ingredients, and also enables them to submit their own recipes.  Develop a GraphQL API for a recipe sharing platform. Users can query for recipes, search by ingredients, and submit their own recipes.
+  language   : TypeScript
+  tags       : api, api-graphql, graphql, graphql-api, typescript, graphql-client, graphql-codegen, graphql-schema, graphql-server, recipe, recipes, recipe-sharing
+
+[Repo] (Page 7, Index 47)
+  name       : record-video-screen-puppeteer
+  url        : https://github.com/BaseMax/record-video-screen-puppeteer
+  description: This is a simple example of how to record a video of a web page by Puppeteer. The script will open a web page and record a video of the page. Designed in JavaScript and Node.js.
+  language   : JavaScript
+  tags       : javascript, js, puppeteer, puppeteer-extra, puppeteer-screenshot, javascript-puppeteer, js-puppeteer, puppeteer-javascript, puppeteer-js
+
+[Repo] (Page 7, Index 48)
+  name       : RedditBot
+  url        : https://github.com/BaseMax/RedditBot
+  description: Automation bot to sign in to Reddit.com website using python selenium.
+  language   : Python
+  tags       : python, python3, selenium, selenium-webdriver, selenium-python, automated-testing
+
+[Repo] (Page 7, Index 49)
+  name       : ResetCSS
+  url        : https://github.com/BaseMax/ResetCSS
+  description: Reset CSS Stylesheet to reduce browser inconsistencies.
+  language   : CSS
+  tags       : css, css-library, css-libraries, resetcss, css-reset, cross-browser, cross-browser-testing, cross-browser-compatibility, css3, stylesheets, stylesheet
+
+[Repo] (Page 7, Index 50)
+  name       : RestaurantGraphQL
+  url        : https://github.com/BaseMax/RestaurantGraphQL
+  description: This GraphQL-based designed to handle multiple restaurants in a shop store. It provides various features such as searching for restaurants in a city, finding the nearest restaurant, retrieving a list of foods offered by a restaurant, and more.
+  language   : TypeScript
+  tags       : graphql, javascript, js, ts, typescript, restuarant, restuful-api
+
+[Repo] (Page 7, Index 51)
+  name       : RestaurantGraphQLAPI
+  url        : https://github.com/BaseMax/RestaurantGraphQLAPI
+  description: A GraphQL-based API designed to handle multiple restaurants in a shop store. It provides various features such as searching for restaurants in a city, finding the nearest restaurant, retrieving a list of foods offered by a restaurant, and more.
+  language   : TypeScript
+  tags       : graphql, graphql-api, graphql-schema, graphql-server, graphql-ts, graphql-typescript, javascript, js, ts, typescript, typescript-graphql
+
+[Repo] (Page 7, Index 52)
+  name       : RippleEffectCSS
+  url        : https://github.com/BaseMax/RippleEffectCSS
+  description: Most Ripple tools just run an animation from a fix point, This tiny library provide a ripple effect which will run from any point the end-user do the action. (CSS + Pure JS)
+  language   : HTML
+  tags       : js, javascript, ripple, ripple-effect, ripple-animation, ripplebutton, ripple-lib, css, css3
+
+[Repo] (Page 7, Index 53)
+  name       : RondIrCrawler
+  url        : https://github.com/BaseMax/RondIrCrawler
+  description: A crawler for extracting a list of top sim cards and tel numbers from the Rond.ir website. (PHP)
+  language   : PHP
+  tags       : crawler, crawler-testing, crawlers, php, php-crawler, crawle-php, crawlers-php, rondir
+
+[Repo] (Page 7, Index 54)
+  name       : RookPolynomial
+  url        : https://github.com/BaseMax/RookPolynomial
+  description: Algorithm to solving the rook polynomial questions.
+  language   : JavaScript
+  tags       : math, mathematics, research, maths, rookpolynomial, rook-polynomial, javascript, js, html, css, css3, html5
+
+[Repo] (Page 7, Index 55)
+  name       : RouteDistance
+  url        : https://github.com/BaseMax/RouteDistance
+  description: Calculating the distance and duration of two point in the Map.
+  language   : PHP
+  tags       : php, map-distance, distance-calculation, distance-measures, distance-vector-routing, duration, duration-measurement, duration-parsing, map-duration, duration-map, distance-map, google-maps-api, google-maps
+
+[Repo] (Page 7, Index 56)
+  name       : RunBenchmarkJs
+  url        : https://github.com/BaseMax/RunBenchmarkJs
+  description: Tiny Library for benchmark javascript code.
+  language   : JavaScript
+  tags       : javascript, tiny, tiny-library, js, js-pure, purejs, library, testing, testing-tools, benchmark, benchmarking, benchmarks, benchmark-framework, benchmark-scripts
+
+[Repo] (Page 7, Index 57)
+  name       : SampleCaptchaAPI
+  url        : https://github.com/BaseMax/SampleCaptchaAPI
+  description: Implementing a captcha service using PHP and javascript to can use it anywhere such as Web.
+  language   : PHP
+  tags       : matno, matno-contest, captcha, captcha-api, captcha-service, api-captcha, php, js, javascript, contest-matno, contest, contest-programming
+
+[Repo] (Page 7, Index 58)
+  name       : SampleGameAPI
+  url        : https://github.com/BaseMax/SampleGameAPI
+  description: A tiny implement API for game apps with a web service using PHP.
+  language   : PHP
+  tags       : matno, matno-contest, contest, contest-matno, google-game-sample, php, php-api, api-php
+
+[Repo] (Page 7, Index 59)
+  name       : Sarrafchi
+  url        : https://github.com/BaseMax/Sarrafchi
+  description: Sarrafchi: A free website to get live currency rates in Free Market. (VueJS, SPA)
+  language   : JavaScript
+  tags       : vuejs, html, css, javascript, js, vuejs-router, vuejs-templates, vuejs2-tutorial, currency-exchange-rates, currency-converter, currency-rates, currency-conversion, currency-api, sarrafchi
+
+[Repo] (Page 7, Index 60)
+  name       : SAW-Internet-Auto-Connector
+  url        : https://github.com/BaseMax/SAW-Internet-Auto-Connector
+  description: This is a simple PHP script that automates the process of connecting to the Sabiha Gökçen Airport's wifi network. It interacts with the Wispotter network service by sending GET and POST requests, managing cookies, and performing login/authentication tasks.
+  language   : PHP
+  tags       : airport, airport-data, airports, sabiha, saw, wifi, airport-wifi, saw-airport, wifi-airport
+
+[Repo] (Page 7, Index 61)
+  name       : ScientistYearsAnalyzer
+  url        : https://github.com/BaseMax/ScientistYearsAnalyzer
+  description: This program analyzes the birth and death years of scientists to find the range of years in which the most scientists lived. It also provides a list of scientists who lived during that range.
+  language   : C++
+  tags       : algorithm, algorithm-challenges, algorithms, algorithms-and-data-structures, algorithms-datastructures, c, cpp, scientists, analyzer-scientists, scientists-analyzer
+
+[Repo] (Page 7, Index 62)
+  name       : SearchBinTreePy
+  url        : https://github.com/BaseMax/SearchBinTreePy
+  description: A simple python class for search in binary tree. This class provides a few methods for searching in binary tree. Search methods are recursive and non-recursive. You can easily search in binary tree with only on left or right child, and you can search in binary tree with both left and right child.
+  language   : Python
+  tags       : bin-tree, binary-tree, bintree, py, python, search-tree, tree, tree-search, tree-searching
+
+[Repo] (Page 7, Index 63)
+  name       : SecureRandStringC
+  url        : https://github.com/BaseMax/SecureRandStringC
+  description: Tiny library for generate a secure random characters using C. (SOON)
+  language   : C
+  tags       : None
+
+[Repo] (Page 7, Index 64)
+  name       : SHA256HashGeneratorJS
+  url        : https://github.com/BaseMax/SHA256HashGeneratorJS
+  description: A repository for a tool allows you to generate the SHA256 hash of any string using Javascript.
+  language   : JavaScript
+  tags       : js, javascript, sha256, sha, sha256-hash, sha256sum, sha256-crypt, sha256-php, sha256-js, js-sha256, javascript-sha256, sha256-javascript, sha256-script, script-sha256, sha256-web, sha256-browser
+
+[Repo] (Page 7, Index 65)
+  name       : ShapesAlgorithm
+  url        : https://github.com/BaseMax/ShapesAlgorithm
+  description: JavaScript/Algorithm: In a shape(rectangle or square) with width n and length m, We want to know how many shapes there are with width and length a and b. We also want to know the remaining forms. 
+  language   : JavaScript
+  tags       : algorithm, algorithm-challenges, algorithms, javascript, js, data-structrues, data-structure, data-structure-and-algorithm, data-structures, data-structures-algorithms, data-structures-and-algorithms, dsa, data-structures-interview-questions
+
+[Repo] (Page 7, Index 66)
+  name       : ShopPriceChecker
+  url        : https://github.com/BaseMax/ShopPriceChecker
+  description: Shopping and E-commerce: A client-side utility project for a Shop product page. Calculate the order price, and check availability with supporting N* filters.
+  language   : JavaScript
+  tags       : js, javascript, shop, ecommerce, e-commerce
+
+[Repo] (Page 7, Index 67)
+  name       : ShortenerLaravelGraphQL
+  url        : https://github.com/BaseMax/ShortenerLaravelGraphQL
+  description: ShortenerLaravelGraphQL is a GraphQL-based web service developed using PHP 8.2 and Laravel 10. This project aims to provide a URL shortening service with a GraphQL API interface, making it easy to create short links and retrieve original URLs using GraphQL queries.
+  language   : PHP
+  tags       : graphql, laravel, laravel-graphql, php, php-graphql, php-laravel, url-shortener, url-shortener-api, url-shorter, url-shortner
+
+[Repo] (Page 7, Index 68)
+  name       : ShowAli
+  url        : https://github.com/BaseMax/ShowAli
+  description: Display the "Ali" name as art and pattern using * character.
+  language   : C
+  tags       : None
+
+[Repo] (Page 7, Index 69)
+  name       : SIEMGraphQLTS
+  url        : https://github.com/BaseMax/SIEMGraphQLTS
+  description: Welcome to the SIEM (Security Information and Event Management) GraphQL-based project! This project is designed to provide a powerful and flexible security monitoring solution by leveraging the capabilities of GraphQL and TypeScript.
+  language   : TypeScript
+  tags       : None
+
+[Repo] (Page 7, Index 70)
+  name       : simple-api-typescript
+  url        : https://github.com/BaseMax/simple-api-typescript
+  description: A lightweight and minimal REST API built with TypeScript, Express, and SQLite.
+  language   : TypeScript
+  tags       : None
+
+[Repo] (Page 7, Index 71)
+  name       : simple-jit-compiler
+  url        : https://github.com/BaseMax/simple-jit-compiler
+  description: This project is designed to illustrate the mechanism used in JIT compilers development.
+  language   : C++
+  tags       : None
+
+[Repo] (Page 7, Index 72)
+  name       : simple-lexer-c
+  url        : https://github.com/BaseMax/simple-lexer-c
+  description: A lightweight and easy-to-use lexer library written in C. This library—named simple-lexer—is designed to simplify the creation of lexers by providing a set of utility functions and a flexible API for iterating over tokens.
+  language   : C
+  tags       : None
+
+[Repo] (Page 7, Index 73)
+  name       : SimpleDjangoSignals
+  url        : https://github.com/BaseMax/SimpleDjangoSignals
+  description: Sample repository to lean Django Signals in small script Using Python.
+  language   : Python
+  tags       : None
+
+[Repo] (Page 7, Index 74)
+  name       : SimpleFastPyAPI
+  url        : https://github.com/BaseMax/SimpleFastPyAPI
+  description: This is a simple REST API built with Python and FastAPI and SQLAlchemy for CRUD operations (Create, Read, Update, Delete) on users. FastAPI is a powerful web framework for building APIs.
+  language   : Python
+  tags       : None
+
+[Repo] (Page 7, Index 75)
+  name       : SimplestRSA
+  url        : https://github.com/BaseMax/SimplestRSA
+  description: Simplest implementation of RSA algorithm encryption and decryption. (In only 13 lines)
+  language   : PHP
+  tags       : None
+
+[Repo] (Page 7, Index 76)
+  name       : SimpleTextCEditor
+  url        : https://github.com/BaseMax/SimpleTextCEditor
+  description: This is a simple text editor implemented in C using the ncurses library. The editor allows users to create, edit, and save text files, as well as customize the editor's appearance and behavior using keyboard shortcuts.
+  language   : C
+  tags       : c, code-editor, editor, editor-code, text-editor, c-editor, c-text-editor, text-editor-c, text-editor-cli
+
+[Repo] (Page 7, Index 77)
+  name       : SimulationShopStore
+  url        : https://github.com/BaseMax/SimulationShopStore
+  description: This is a web-based simulation of a shop-store. It is a simulation of a shop-store with a queue of clients. This simulation designed in a way that we can change the parameters of the simulation and see the results. Project is written in JavaScript withouth any third-party library.
+  language   : JavaScript
+  tags       : None
+
+[Repo] (Page 7, Index 78)
+  name       : SinglyLinkedListC
+  url        : https://github.com/BaseMax/SinglyLinkedListC
+  description: This is a simple implementation of a singly linked-list in C. Singly linked-lists are a type of data structure that are used to store a collection of elements. Each element in a singly linked-list is called a node. Each node contains two parts: the data and a pointer to the next node. The first node in a singly linked-list is called the head.
+  language   : C
+  tags       : c, data-structure, datastructure, linked-list, linkedlist, singly-linked-list, singly-linked-list-in-c, singly-linkedlist
+
+[Repo] (Page 7, Index 79)
+  name       : SmallCalculator
+  url        : https://github.com/BaseMax/SmallCalculator
+  description: A small calculator to parse and execute mathematical expressions based on C, Flex, Bison.
+  language   : C
+  tags       : calculator, c, flex, bison, calculator-flex, calculator-bison, calculator-flex-bison, flex-bison, calculator-c
+
+[Repo] (Page 7, Index 80)
+  name       : smart-table-loader
+  url        : https://github.com/BaseMax/smart-table-loader
+  description: Smart Table Loader is a lightweight, browser-based tool that lets you upload and display CSV (comma separated values), Excel (.xls/.xlsx), or JSON files in a dynamic and interactive HTML table powered by DataTables.js. This tool is great for quick data analysis without the need for installing heavy software.
+  language   : JavaScript
+  tags       : csv, javascript, js, json, online-excel, online-json, smart-table, sort, sorting, table, table-sort, xls, xlsx, online-csv, table-csv, table-json, table-loader, table-xlsx, xlsx-table
+
+[Repo] (Page 7, Index 81)
+  name       : SmartFilter
+  url        : https://github.com/BaseMax/SmartFilter
+  description: A Smart Filtering to keep and remove the character or words of the text. (SOON)
+  language   : PHP
+  tags       : php, extract, extraction, extractor, extract-data, extract-information, extractive-summarization, extract-text, extract-features, split, splitter, splitting, text, text-mining, text-analysis, text-analytics, text-analyzer
+
+[Repo] (Page 7, Index 82)
+  name       : SmartLoading
+  url        : https://github.com/BaseMax/SmartLoading
+  description: A progress bar(loading) example that runs from 0 to 100.
+  language   : HTML
+  tags       : progress-bar, progressbar, progress, loading, loading-animations, loading-bar, loading-animation, loading-page, html, javascript, js, c
+
+[Repo] (Page 7, Index 83)
+  name       : SmartTrackPhoneAndroid
+  url        : https://github.com/BaseMax/SmartTrackPhoneAndroid
+  description:   NotificationListener: An android application to track phone messages and Children to understand what message they receive. (using Java) 
+  language   : Java
+  tags       : android, android-application, android-app, java, notification-android, notification-listener, call-listener
+
+[Repo] (Page 7, Index 84)
+  name       : SMTPConnection
+  url        : https://github.com/BaseMax/SMTPConnection
+  description: A script to connect to a SMTP server and send email using that.
+  language   : PHP
+  tags       : smtp, smtp-client, smtp-mail, smtp-protocol, smtp-test, smtp-sample, smtp-example, sample-smtp, example-smtp, test-smtp
+
+[Repo] (Page 7, Index 85)
+  name       : SnakeGameWebJS
+  url        : https://github.com/BaseMax/SnakeGameWebJS
+  description: A web-based game designed by JavaScript is a snake game where you can eat food and grow. This game supports both Phones and Desktops.
+  language   : JavaScript
+  tags       : game, game-snake, javascript, js, js-snake, js-snake-game, snake, snake-game, snake-js, snakegame, snakemake
+
+[Repo] (Page 7, Index 86)
+  name       : socketio-chat-application-nodejs
+  url        : https://github.com/BaseMax/socketio-chat-application-nodejs
+  description: Chat of LIVE Concert: WebSocket Chat asynchronous communication application for online live concert. (Nodejs)
+  language   : JavaScript
+  tags       : socket-io, socketio, socket, nodejs, chat-application, chat-app, chat-client, chat-socketio, socketio-chat, concerts, chat, chatroom, chatapp
+
+[Repo] (Page 7, Index 87)
+  name       : SoftwareMarketGoAPI
+  url        : https://github.com/BaseMax/SoftwareMarketGoAPI
+  description: SoftwareMarketGoAPI is a RESTful API built with Golang that provides endpoints to manage software products in a marketplace. It allows users to perform operations such as creating, retrieving, updating, and deleting software products.
+  language   : Go
+  tags       : api, go, go-api, go-restful, restful, software-market, softwaremarket
+
+[Repo] (Page 7, Index 88)
+  name       : SortingAlgorithms
+  url        : https://github.com/BaseMax/SortingAlgorithms
+  description: This is a collection of sorting algorithms implemented in C.
+  language   : C
+  tags       : algorithm, algorithm-challenges, algorithms, algorithms-and-data-structures, algorithms-datastructures, c, sort-algorithm, sort-algorithms, algo
+
+[Repo] (Page 7, Index 89)
+  name       : SparseMatrixLinkedListGo
+  url        : https://github.com/BaseMax/SparseMatrixLinkedListGo
+  description: Sparse-Matrix Linked-List Go is a sparse matrix implementation in Go using a linked list. This is a data structure that stores only non-zero values in a matrix. This is useful when you have a lot of zeros in your matrix. This data structure is also useful when you want to perform operations on sparse matrices.
+  language   : Go
+  tags       : data-structure, datastructure, ds, go, golang, linkedlist, sparse, sparse-matrix, sparsematrix
+
+[Repo] (Page 7, Index 90)
+  name       : SparseMatrixPy
+  url        : https://github.com/BaseMax/SparseMatrixPy
+  description: Sparse Matrix: A full-featured library in Python for working with Sparse Matrix.
+  language   : Python
+  tags       : py, python, sparse-matrix, sparse-matrix-addition, sparse-matrix-decomposition, sparse-matrix-library, sparse-matrix-methods, sparse-matrix-multiplication, sparse-matrix-operations, sparse-matrix-vector-multiplication
+
+[Repo] (Page 7, Index 91)
+  name       : SparsePolynomialGo
+  url        : https://github.com/BaseMax/SparsePolynomialGo
+  description: A Go package for working with sparse polynomials. (Based on Array List data structure)
+  language   : Go
+  tags       : go, go-package, golang, sparse, sparse-data, sparse-matrix, polynomial, polynomials
+
+[Repo] (Page 7, Index 92)
+  name       : SparsePolynomialLinkedListC
+  url        : https://github.com/BaseMax/SparsePolynomialLinkedListC
+  description: This is a C implementation of a sparse polynomial linked-list. This is a good example of how to use a linked-list in C. By using a linked-list, we can store a sparse polynomial in a memory efficient way. Sparse polynomials are polynomials that have a lot of terms with a coefficient of 0. 
+  language   : C
+  tags       : algorithm, algorithms, algorithms-and-data-structures, c, datastructure, ds, polynomial, sparse, c-polynomial, c-sparse-polynomial, c-sparsepolynomial, polynomial-c, sparse-polynomial, sparse-polynomial-c, sparsepolynomial, sparsepolynomial-c
+
+[Repo] (Page 7, Index 93)
+  name       : SplitLinkedListC
+  url        : https://github.com/BaseMax/SplitLinkedListC
+  description: This is a simple implementation of a linked-list in C with a few helper functions for merging two or three linked-lists, splitting a linked list into two or three parts, and sorting a linked-list (recursive and non-recursive)
+  language   : C
+  tags       : c, linked-list, linkedlist, algorithm, algorithm-challenges, algorithms, algorithms-and-data-structures, algorithms-datastructures, merge, merge-linked-list, merge-linkedlist, split-linked-list, split-linkedlist
+
+[Repo] (Page 7, Index 94)
+  name       : sqlite-browser
+  url        : https://github.com/BaseMax/sqlite-browser
+  description: SQLite Browser is a web-based SQLite database browser that allows you to load, execute SQL queries, and view results directly in your browser. It is designed to work with SQLite .db files, enabling users to interact with their SQLite databases via a user-friendly interface.
+  language   : JavaScript
+  tags       : javascript, js, sql, sqlite, sqlite-webassembly, sqlite3, wasm, web-assembly, webasm, webassembly, webassembly-demo, webassembly-tutorial, online-sqlite, webassembly-sqlite
+
+[Repo] (Page 7, Index 95)
+  name       : SquareRoot
+  url        : https://github.com/BaseMax/SquareRoot
+  description: Own function to calc the square root of a number.
+  language   : C++
+  tags       : c, cpp, square-root, squareroot, math, mathematics, math-library
+
+[Repo] (Page 7, Index 96)
+  name       : SSHFinderC
+  url        : https://github.com/BaseMax/SSHFinderC
+  description: The SSH System Finder is a C program designed to scan an IP range or local network and identify systems that have SSH (Secure Shell) enabled. It provides a straightforward way to discover SSH-enabled devices within a given range of IP addresses.
+  language   : C
+  tags       : c, ssh, ssh-client, ssh-config, ssh-connection, ssh-keys, ssh-server
+
+[Repo] (Page 7, Index 97)
+  name       : ssl-file-downloader-c
+  url        : https://github.com/BaseMax/ssl-file-downloader-c
+  description: A simple C program that downloads files over HTTPS using OpenSSL, with support for SSL/TLS connections.
+  language   : C
+  tags       : c, c-language, clang, download-file, file-download, https, openssl, socket
+
+[Repo] (Page 7, Index 98)
+  name       : StackC
+  url        : https://github.com/BaseMax/StackC
+  description: This is a simple stack implementation in C, using an array as the underlying data structure. It's possible to resize the stack, and it's possible to set the initial size of the stack.
+  language   : C
+  tags       : c, data-structure, datastructure, stack, stack-c, stack-implementation, c-stack
+
+[Repo] (Page 7, Index 99)
+  name       : StackLinkedListGo
+  url        : https://github.com/BaseMax/StackLinkedListGo
+  description: This is a simple implementation of a stack using a linked-list in Go. (Data Structure and Algorithms)
+  language   : Go
+  tags       : data-structure, datastructure, ds, go, golang, linked-list, linkedlist, stack, linkedlist-stack, stack-linkedlist
+
+[Repo] (Page 7, Index 100)
+  name       : StackMathematicsInterpreter
+  url        : https://github.com/BaseMax/StackMathematicsInterpreter
+  description: My Simple Mathematics Interpreter Implementation In Java (Designed by Stack Structure)
+  language   : Java
+  tags       : interpreter, java, stack, expression-engine, expression-evaluator, expression-language, expression-parser, interpreter-pattern, interpreters, math-interpreter, interpreter-expression, interpreter-math
+
+[Repo] (Page 8, Index 1)
+  name       : StackoverflowCrawler
+  url        : https://github.com/BaseMax/StackoverflowCrawler
+  description: A web crawler which crawls the stackoverflow website.
+  language   : Python
+  tags       : stackoverflow-crawler, crawler, crawlers, crawler-testing, crawler-detector, crawler-python, python-crawler, web-crawler, web-crawler-python, test-crawler, stackoverflow, stackoverflow-questions, stackoverflow-api, stackoverflow-answer, stackoverflow-tags, stackoverflow-get, stackoverflow-analyse, crawling, text-processing, text-processor
+
+[Repo] (Page 8, Index 2)
+  name       : StepByStepHeapTreePy
+  url        : https://github.com/BaseMax/StepByStepHeapTreePy
+  description: A step-by-step implementation of a heap-tree in Python. By this class you can easily convert an array to maxheap or minheap tree. Also you can extract the maximum or minimum value from the heap-tree.  The heap-tree is a binary tree that can be used to sort an array of numbers. (both MaxHeap and MinHeap)
+  language   : Python
+  tags       : heap-tree, heaptree, maxheap, py, python, tree, minhrap, tree-heap
+
+[Repo] (Page 8, Index 3)
+  name       : stock-portfolio-tracker-ts
+  url        : https://github.com/BaseMax/stock-portfolio-tracker-ts
+  description: This repository contains a basic implementation of a stock portfolio tracker backend using Express.js and TypeScript. It includes features for user authentication, adding and removing stocks from the portfolio, real-time stock data retrieval using a financial data API, and tracking portfolio performance over time.
+  language   : TypeScript
+  tags       : api, api-restful, expressjs, javascript, js, restful, ts, typescript, typescript-api, typescript-express, typescript-restful
+
+[Repo] (Page 8, Index 4)
+  name       : StockExchangeCrawler
+  url        : https://github.com/BaseMax/StockExchangeCrawler
+  description: A crawler program to extract all of the data and the price for symbols in the global stock exchange.
+  language   : PHP
+  tags       : stock, stock-market, stock-prices, stock-data, stock-price-prediction, stock-trading, stock-analysis, stock-prediction, stock-exchange, stock-exchanges, stock-exchange-simulator, stock-exchange-platform, stock-exchange-crawler, crawler, crawling, crawling-sites, crawlers, crawling-framework, crawl-pages, crawlspider
+
+[Repo] (Page 8, Index 5)
+  name       : StoryGraphQLTS
+  url        : https://github.com/BaseMax/StoryGraphQLTS
+  description: This project is a GraphQL-based API powered by NestJS and implemented in TypeScript. It provides various features for user authentication, user management, and story-related operations. The API supports both user and guest user roles, each with specific permissions and functionality.
+  language   : TypeScript
+  tags       : graphql, javascript, js, ts, typescript
+
+[Repo] (Page 8, Index 6)
+  name       : String2CString
+  url        : https://github.com/BaseMax/String2CString
+  description: A tiny program to convert a file contents to C string with supporting multi-lines...
+  language   : C
+  tags       : php, c, string, string-formatter, string-parse, strings, parser, parsers, c-string, string-c, file-read, tool, tools, cgi, cgi-script, cgi-server, cgi-fcgi, replace, replace-text, replacement
+
+[Repo] (Page 8, Index 7)
+  name       : Strip-C-Comments
+  url        : https://github.com/BaseMax/Strip-C-Comments
+  description: A C program to strip comments from a c file and output the result to a new file.
+  language   : C
+  tags       : c, strip-comments, strip-comment, strip-c-comment, strip-c-comments, remove-comments, remove-comment, remove-c-comment, remove-c-comments, regex
+
+[Repo] (Page 8, Index 8)
+  name       : StudentGraphQLTS
+  url        : https://github.com/BaseMax/StudentGraphQLTS
+  description: StudentGraphQLTS is a GraphQL-based system built with TypeScript that allows universities, students, and professors to interact and manage academic information. This system provides an API to query and manipulate data related to students, professors, courses, and other university-related entities.
+  language   : TypeScript
+  tags       : graphql, javascript, js, student, ts, typescript, university, student-graphql
+
+[Repo] (Page 8, Index 9)
+  name       : SubmatricesCountMath
+  url        : https://github.com/BaseMax/SubmatricesCountMath
+  description: Research: The submatrices character count problem: an efficient solution using separable values.
+  language   : 
+  tags       : research, research-project, research-paper, research-tool, research-data-management, research-and-development, research-data, research-data-repository, matrix, submatrix, submatrices, submatrice
+
+[Repo] (Page 8, Index 10)
+  name       : SubscribeDialog
+  url        : https://github.com/BaseMax/SubscribeDialog
+  description: Display the dialog for submit email.
+  language   : CSS
+  tags       : html, html5, css, css3, psd, psd-to-html, psd2html, email, form, submit, design
+
+[Repo] (Page 8, Index 11)
+  name       : SubSetSumBacktracking
+  url        : https://github.com/BaseMax/SubSetSumBacktracking
+  description: This is an implementation of the Sub Set Sum Backtracking algorithm in C. The algorithm is used to find a subset of a given set of numbers that adds up to a given sum. The algorithm is implemented using backtracking.
+  language   : C
+  tags       : algorithm, backtracking, backtracking-algorithm, backtracking-search, c, data-structures-and-algorithms, datastructure, ds, subsetsum, sum, tree, sub-set-sum, sum-algorithm
+
+[Repo] (Page 8, Index 12)
+  name       : super-fast-compiling
+  url        : https://github.com/BaseMax/super-fast-compiling
+  description: A blazing-fast parallel build system for C projects, written in Python.   It supports intelligent caching using source hashing, JSON output beautification, and multi-core compilation. Ideal for projects with lots of `.c` files where traditional Makefiles just aren't cutting it.
+  language   : Python
+  tags       : c, cmake, compiler, compiling, cpp, make, py, python, python3
+
+[Repo] (Page 8, Index 13)
+  name       : SwapBinTreeC
+  url        : https://github.com/BaseMax/SwapBinTreeC
+  description: A C program to swap the left and right nodes of a binary tree. It mean we are going to change the left node to right and right node to left. Even the child nodes of the left and right nodes will be swapped. This program is written in C language.
+  language   : C
+  tags       : bin-tree, binary-tree, binarytree, bintree, c, data-structure, datastructure, tree, swap-binary-tree, swap-binarytree, swap-tree
+
+[Repo] (Page 8, Index 14)
+  name       : system-updater
+  url        : https://github.com/BaseMax/system-updater
+  description: This project provides a cross-platform script to check for system updates and update the system for various operating systems. It supports Windows, macOS, and Linux distributions such as Ubuntu, Debian, Fedora, CentOS, and more. The script also includes backup functionality for critical system files before updating.
+  language   : Python
+  tags       : py, python, system-update, system-updater
+
+[Repo] (Page 8, Index 15)
+  name       : system-updater-cpp
+  url        : https://github.com/BaseMax/system-updater-cpp
+  description: A simple cross-platform system updater written in C++ that can be used to check and update various system packages and backup critical system files. This tool is designed to work on Linux, macOS, and Windows operating systems.
+  language   : C++
+  tags       : cc, cmake, cpp, system-update, system-updater, system-updates, update-system
+
+[Repo] (Page 8, Index 16)
+  name       : TaxiBookingMap
+  url        : https://github.com/BaseMax/TaxiBookingMap
+  description: A web page for booking a taxi with some feature to convert address to latitude and longitude to display the route on the map.
+  language   : HTML
+  tags       : js, javascript, map, maps, google-maps-api, google-maps, google-maps-javascript-api, google-maps-javascript, google-map, google-map-api, google-maps-services, taxi, taxi-booking
+
+[Repo] (Page 8, Index 17)
+  name       : TCP-Chat-C
+  url        : https://github.com/BaseMax/TCP-Chat-C
+  description: A lightweight and efficient TCP chat server built with C. This project demonstrates how to handle multiple client connections, broadcast messages, and manage user sessions using C's high-performance networking capabilities.
+  language   : C
+  tags       : c, c-chat, chat, chat-room, room, server, socket, tcp, tcp-server, chat-c
+
+[Repo] (Page 8, Index 18)
+  name       : TCP-Chat-CPP
+  url        : https://github.com/BaseMax/TCP-Chat-CPP
+  description: A simple TCP-based chat server and client written in C++. This project was originally created by Max Base, and later ported to C++ by Kambiz Asadzade.
+  language   : C++
+  tags       : cpp, cpp-23, tcp, broadcast, broadcast-reciever, broadcasting, chat, chat-room, chat-rooms, chat-rooms-multicast, tcp-chat, cmake, cmake-cpp
+
+[Repo] (Page 8, Index 19)
+  name       : TCP-IP-Chat-Server
+  url        : https://github.com/BaseMax/TCP-IP-Chat-Server
+  description: This is a TCP/IP chat server implemented in C. The server allows multiple clients to connect and communicate with each other through a chat room.
+  language   : C++
+  tags       : c, chat, chat-tcp, tcp, c-chat, c-network, c-tcp, chat-ip, network-c, cpp
+
+[Repo] (Page 8, Index 20)
+  name       : TCP-Typescript-BUN
+  url        : https://github.com/BaseMax/TCP-Typescript-BUN
+  description: A lightweight and efficient TCP chat server built with TypeScript and Bun. This project demonstrates how to handle multiple client connections, broadcast messages, and manage user sessions using Bun's high-performance networking capabilities.
+  language   : TypeScript
+  tags       : bun, javascript, js, tcp, tcp-chat, tcp-chat-room, tcp-chat-server, tcp-chatroom, tcp-client, tcp-server, ts, typescript, bun-tcp, tcp-bun, typescript-bun
+
+[Repo] (Page 8, Index 21)
+  name       : TDesign-Math
+  url        : https://github.com/BaseMax/TDesign-Math
+  description: Research Simple t-designs: A recursive construction for arbitrary t.
+  language   : PHP
+  tags       : research, research-project, research-tool, research-data, research-data-repository, mathematics, math, maths, t-design, article, researcher, research-data-management, research-and-development, research-software-engineering
+
+[Repo] (Page 8, Index 22)
+  name       : tehran-stock-market-watch-golang
+  url        : https://github.com/BaseMax/tehran-stock-market-watch-golang
+  description: A Go-based script to obtain live data of Tehran stock and watching market's symbols.
+  language   : Go
+  tags       : stock-market, stock, stocks, tehran-stock-exchange, tehran-stocks, go, golang
+
+[Repo] (Page 8, Index 23)
+  name       : tehran-stock-market-watch-nodejs
+  url        : https://github.com/BaseMax/tehran-stock-market-watch-nodejs
+  description: A node js-based script to obtain live data of Tehran stock and watching market's symbols.
+  language   : JavaScript
+  tags       : stock-market, stock, stocks, tehran-stock-exchange, tehran-stocks, nodejs, js, javascript
+
+[Repo] (Page 8, Index 24)
+  name       : tehran-stock-market-watch-php
+  url        : https://github.com/BaseMax/tehran-stock-market-watch-php
+  description: A PHP-based script to obtain live data of Tehran stock and watching market's symbols.
+  language   : PHP
+  tags       : stock-market, stock, stocks, tehran-stock-exchange, tehran-stocks, php
+
+[Repo] (Page 8, Index 25)
+  name       : telegram-github-trend
+  url        : https://github.com/BaseMax/telegram-github-trend
+  description: A Tiny script to send message for new projects in GitHub Open Source - Free Software/GitHub Trending channel. (https://t.me/GitGpCh)
+  language   : PHP
+  tags       : php, telegram, telegram-bot, telegram-channel, telegram-group, github, github-trending, github-trend, github-trend-api, github-trend-bot
+
+[Repo] (Page 8, Index 26)
+  name       : telegram-image-compressor
+  url        : https://github.com/BaseMax/telegram-image-compressor
+  description: A Telegram bot that validates image URLs, downloads the pictures, compresses them, and shares the compressed picture back with the user.
+  language   : Python
+  tags       : compress-image, compress-images, image, image-comparison, image-composition, image-compress, image-compression, image-compressor, py, python, python-telegram, telegram, telegram-python
+
+[Repo] (Page 8, Index 27)
+  name       : telegram-video-compressor
+  url        : https://github.com/BaseMax/telegram-video-compressor
+  description: A Telegram bot that validates video URLs, downloads the videos, compresses them using FFMPEG, and shares the compressed video back with the user. 
+  language   : Python
+  tags       : compress-video-files, compress-videos, ffmpeg, py, python, python-telegram, telegram, telegram-python
+
+[Repo] (Page 8, Index 28)
+  name       : telegram-weather-bot
+  url        : https://github.com/BaseMax/telegram-weather-bot
+  description: A telegram bot to sending weather information daily in some channels. (Using PHP and getting information from a API)
+  language   : PHP
+  tags       : None
+
+[Repo] (Page 8, Index 29)
+  name       : TelegramAndroidConcept
+  url        : https://github.com/BaseMax/TelegramAndroidConcept
+  description: A new Android application based on new telegram concepts design Using Android (Java) with support SDK 9 and up to more.
+  language   : Java
+  tags       : telegram, telegram-android, telegram-design, telegram-application, telegram-app, telegram-sample, telegram-example, telegram-contest
+
+[Repo] (Page 8, Index 30)
+  name       : TelegramBotSample
+  url        : https://github.com/BaseMax/TelegramBotSample
+  description: Sample code for the telegram bot using PHP.
+  language   : PHP
+  tags       : telegram, telegram-bot, telegram-bot-api, telegram-bots, telegram-bot-php, telegram-bot-example, php
+
+[Repo] (Page 8, Index 31)
+  name       : TelegramClientMTProto
+  url        : https://github.com/BaseMax/TelegramClientMTProto
+  description: A tiny smart bot to reply my new messages in the telegram.
+  language   : Python
+  tags       : telegram, telegrambot, telegram-cli, telegram-bot, telegram-api, smartbot, bot, bots, bot-api
+
+[Repo] (Page 8, Index 32)
+  name       : TelegramCommunicationJS
+  url        : https://github.com/BaseMax/TelegramCommunicationJS
+  description: A pure script to communicate with Telegram server without any Third-party tools and library.
+  language   : JavaScript
+  tags       : telegram, telegram-communication, telegram-communicate, telegram-protocol, telegram-client, mtproto, telegram-mtproto, mtproto-schema
+
+[Repo] (Page 8, Index 33)
+  name       : TelegramDataSerialization
+  url        : https://github.com/BaseMax/TelegramDataSerialization
+  description: A tiny library to Serialization and Deserialization of the JS objects for Telegram.
+  language   : JavaScript
+  tags       : serialization, serialization-library, dataserialization, serialization-engine, serialization-format, serialization-js, deserialization, deserialization-library, deserialization-js, js-deserialization, js-serialization, js, javascript, javascript-library, telegram-serialization, telegram-deserialization
+
+[Repo] (Page 8, Index 34)
+  name       : TelegramEntitiesParser
+  url        : https://github.com/BaseMax/TelegramEntitiesParser
+  description: A program to parse and decode formatted part of the Telegram message text with UTF8 support.
+  language   : PHP
+  tags       : telegram, telegram-bot, telegram-bot-api, telegram-api, telegram-bots, telegrambot, telegram-entities, telegram-entity, php, json-sample, json-example, mbstrlen, strlen, mbsubstr, substr, text-mention, telegram-text-mention
+
+[Repo] (Page 8, Index 35)
+  name       : TelegramJavascriptContest
+  url        : https://github.com/BaseMax/TelegramJavascriptContest
+  description: A mirror for Telegram Javascript Contest Stage 1.
+  language   : HTML
+  tags       : telegram, telegram-contest, contest-telegram, contest-telegram-mirror, telegram-contest-mirror
+
+[Repo] (Page 8, Index 36)
+  name       : terser-demo
+  url        : https://github.com/BaseMax/terser-demo
+  description: This project demonstrates how to use Terser for JavaScript minification. It provides examples of both simple code minification and file-based minification, showcasing how to minify JavaScript code using Terser.
+  language   : JavaScript
+  tags       : javascript, js, js-minifier, minifier, minifier-js, minifiers, minify, minify-javascript, terser, terser-config, terser-preset, example-terser, js-terser, terser-demo, terser-example, terser-js, terser-sample
+
+[Repo] (Page 8, Index 37)
+  name       : TestAVR
+  url        : https://github.com/BaseMax/TestAVR
+  description: 
+  language   : C
+  tags       : avr, avr-programming, avr-c, c-avr, atmega32, atmega
+
+[Repo] (Page 8, Index 38)
+  name       : TexSample
+  url        : https://github.com/BaseMax/TexSample
+  description: A guide document with some example file for Tex, Latex.
+  language   : TeX
+  tags       : latex, tex, latex-document, latex-examples, tex-files, tex-distribution, tex-examples, latex-sample, bash, bash-script, xepersian, latex-xepersian, tex-xepersian, latex-persian, tex-persian
+
+[Repo] (Page 8, Index 39)
+  name       : TextAnalyzerJS
+  url        : https://github.com/BaseMax/TextAnalyzerJS
+  description: A online and web-based tool to analyze the words of an input string.
+  language   : HTML
+  tags       : js, text-analyzer, text-split, online-tools, online-tool, html, online-service, online-services
+
+[Repo] (Page 8, Index 40)
+  name       : TextDotsCounterJS
+  url        : https://github.com/BaseMax/TextDotsCounterJS
+  description: JS script (web-based) to count number of dots inside characters. for example i have one dot, and p not have a dot. (Support English, Persian, and Arabic languages)
+  language   : JavaScript
+  tags       : js, javascript, es6, dom, assignment, assignments, assignment-solutions, assignment-problem
+
+[Repo] (Page 8, Index 41)
+  name       : tg
+  url        : https://github.com/BaseMax/tg
+  description: telegram-cli
+  language   : C
+  tags       : None
+
+[Repo] (Page 8, Index 42)
+  name       : tgl
+  url        : https://github.com/BaseMax/tgl
+  description: telegram library
+  language   : C
+  tags       : None
+
+[Repo] (Page 8, Index 43)
+  name       : TheaterCinemaAPISystem
+  url        : https://github.com/BaseMax/TheaterCinemaAPISystem
+  description: The Theater and Cinema System is a software application that provides a comprehensive solution for managing theater and cinema operations. It allows users to manage movie screenings, ticket sales, seat reservations, customer data, and other related functionalities.
+  language   : Go
+  tags       : None
+
+[Repo] (Page 8, Index 44)
+  name       : ThemeSwitcherMithrilJS
+  url        : https://github.com/BaseMax/ThemeSwitcherMithrilJS
+  description: Theme Switcher using MithrilJS
+  language   : JavaScript
+  tags       : js, mithriljs, mithril, mithril-components, mithril-ui, mithril-starter, mithril-start, javascript, theme-switcher, theme-switch, theme-switching
+
+[Repo] (Page 8, Index 45)
+  name       : TherapistBookingGraphQLTS
+  url        : https://github.com/BaseMax/TherapistBookingGraphQLTS
+  description: This repository contains a Therapist Booking Project built using GraphQL and TypeScript. The project aims to create a platform where users can book appointments with therapists for counseling sessions.
+  language   : TypeScript
+  tags       : graphql, therapists, typescript, typescript-graphql, graphql-therapist, therapist-api, therapist-api-graphql, therapist-graphql, therapist-typescript
+
+[Repo] (Page 8, Index 46)
+  name       : TicTacToeCanvasTS
+  url        : https://github.com/BaseMax/TicTacToeCanvasTS
+  description: Live coding project in TypeScript Global Summit 2023 for a talk about designing the Tic-Tac-Toe game.
+  language   : TypeScript
+  tags       : canvas, canvas-game, game, tic-tac-toe, tictactoe, ts, typescript, typescript-game, game-canvas, game-ts, game-typescript, ts-game
+
+[Repo] (Page 8, Index 47)
+  name       : TimePrayTS
+  url        : https://github.com/BaseMax/TimePrayTS
+  description: This is a refactor of the original Praytimes.org source code to make it more usable with npm and JavaScript.
+  language   : TypeScript
+  tags       : iran, islam, islamic-prayer-times, javascript, pray-times, typescript, pray-time, time-pray, times-pray
+
+[Repo] (Page 8, Index 48)
+  name       : TinderGraphQLTS
+  url        : https://github.com/BaseMax/TinderGraphQLTS
+  description: This project is a GraphQL-based back-end for a Tinder clone application. It provides the necessary API for managing user accounts, profiles, matching, and messaging functionalities similar to the popular dating app Tinder.
+  language   : TypeScript
+  tags       : graphql, javascript, js, tinder, tinder-clone, tinder-clone-app, ts, typescript
+
+[Repo] (Page 8, Index 49)
+  name       : TinyCalculator
+  url        : https://github.com/BaseMax/TinyCalculator
+  description: Tiny Calculator with support of +, -, *, /, ^, sin, cos, tan...
+  language   : C++
+  tags       : calculator, calculator-application, calculators, calculatorapp, calculator-cpp, cpp
+
+[Repo] (Page 8, Index 50)
+  name       : TinyCalculatorAssembly
+  url        : https://github.com/BaseMax/TinyCalculatorAssembly
+  description: Tiny Calculator with support of +, -, *, /...
+  language   : Assembly
+  tags       : assembly, assembly-language, assembly-language-programming, assembly-x86, calculator
+
+[Repo] (Page 8, Index 51)
+  name       : TinyShell
+  url        : https://github.com/BaseMax/TinyShell
+  description: Tiny shell is a command-line interface (CLI) to execute commands in the system and to manage system. (SOON)
+  language   : C
+  tags       : None
+
+[Repo] (Page 8, Index 52)
+  name       : TinyTagEngineJS
+  url        : https://github.com/BaseMax/TinyTagEngineJS
+  description: Javascript: Sometimes you need to get input from the user that contains the symbols you want to tag, and render these tags.
+  language   : HTML
+  tags       : html, js, template-engine, template-engine-html, template-engine-js, tag-engine
+
+[Repo] (Page 8, Index 53)
+  name       : TinyTelegramBotPHP
+  url        : https://github.com/BaseMax/TinyTelegramBotPHP
+  description: Small telegram bot library using PHP.
+  language   : PHP
+  tags       : php, telegram, telegram-bot, telegram-bot-api, telegram-api, telegram-bots, telegram-bot-framework, telegram-bot-php, telegram-bot-example
+
+[Repo] (Page 8, Index 54)
+  name       : TinyTimerJs
+  url        : https://github.com/BaseMax/TinyTimerJs
+  description: Tiny and Powerful Library for show time counter.
+  language   : JavaScript
+  tags       : timer, time, js, javascript, library, pure-javascript, javascript-library, javascript-tools, js-library, js-libs
+
+[Repo] (Page 8, Index 55)
+  name       : tiobe-scraper
+  url        : https://github.com/BaseMax/tiobe-scraper
+  description: A simple web scraper to fetch the latest programming language rankings from the TIOBE Index. The data is extracted using Bun, TypeScript, and Regular Expressions, then saved as JSON and YAML.
+  language   : TypeScript
+  tags       : scraper, scraper-api, scrapers, tiobe, tiobe-scraper, ts, typescript, scraper-typescript, typescript-scraper
+
+[Repo] (Page 8, Index 56)
+  name       : TkinterCalculator
+  url        : https://github.com/BaseMax/TkinterCalculator
+  description: Tiny and feature-rich calculator application created by Python powered by Tkinter. (GUI Calculator)
+  language   : Python
+  tags       : tkinter, tkinter-gui, python, python3, tkinter-python, tkinter-widgets, calculator, calculator-application, calculator-app, calculator-python, python-calculator, python-application, python-app, python-gui, python-gui-tkinter, python-gui-apps, gui
+
+[Repo] (Page 8, Index 57)
+  name       : tl-parser
+  url        : https://github.com/BaseMax/tl-parser
+  description: Parse tl scheme to tlo.
+  language   : C
+  tags       : None
+
+[Repo] (Page 8, Index 58)
+  name       : TodoAppMithrilJS
+  url        : https://github.com/BaseMax/TodoAppMithrilJS
+  description: Create a Todo-list project using MithrilJS something is one of best JS-based SPA framework.
+  language   : JavaScript
+  tags       : mithril, mithriljs, mithril-components, mithril-template, mithril-example, mithril-sample, js
+
+[Repo] (Page 8, Index 59)
+  name       : TodoTaskGraphQL
+  url        : https://github.com/BaseMax/TodoTaskGraphQL
+  description: This project is a Todo task manager that uses GraphQL instead of JSON for its data structure. The project allows users to create, read, update and delete tasks using the GraphQL API. This project is built using the NestJS framework for the backend and GraphQL for the API.
+  language   : TypeScript
+  tags       : graphql, nestjs, typescript
+
+[Repo] (Page 8, Index 60)
+  name       : TopPHPFunctions
+  url        : https://github.com/BaseMax/TopPHPFunctions
+  description: Here is the top 100 PHP functions: it is the list of the most often used PHP native functions. If you are a PHP developer, you must know the Top 100 PHP Functions deeply.
+  language   : PHP
+  tags       : 2022, function, functions, git, open-source, php, php7, php8, functions-php, php-2022, php-5, php-7, php-8, learn-to-code, learning, learning-by-doing, learning-exercise
+
+[Repo] (Page 8, Index 61)
+  name       : ToyLanguageTranslator
+  url        : https://github.com/BaseMax/ToyLanguageTranslator
+  description: A java program to convert a new language to plain english language. (A exercise for String in advanced programming)
+  language   : Java
+  tags       : java, programming-question, programming-question-string, question-string, question-answering, language-translator, language-translation, romani, romani-language, gypsy-language, gypsy
+
+[Repo] (Page 8, Index 62)
+  name       : TrackPhoneAndroid
+  url        : https://github.com/BaseMax/TrackPhoneAndroid
+  description: NotificationListener: An android application to track phone messages and Children to understand what message they receive. (using Java)
+  language   : PHP
+  tags       : android-application, android, java, java-android, android-java, tracker, track, tracking, android-tracker, phone-track, phone-tracker, notification-listener, notificationlistener, notification-android, notification-read, notification-get, get-all-notification, get-all-notifications
+
+[Repo] (Page 8, Index 63)
+  name       : TravelAPITS
+  url        : https://github.com/BaseMax/TravelAPITS
+  description: This is a RESTful API for managing travel-related information, including cities, tourist places, and user authentication. It is built with NestJS and TypeScript.
+  language   : TypeScript
+  tags       : javascript, js, ts, typescript, api, api-restful, api-typescript, nestjs, nestjs-api, restful, restful-api, ts-api, typescript-api, api-ts
+
+[Repo] (Page 8, Index 64)
+  name       : TravelPlannerGraphQLTS
+  url        : https://github.com/BaseMax/TravelPlannerGraphQLTS
+  description: The Travel Planner App is a web application that allows users to plan and organize their trips efficiently. It utilizes GraphQL as the API layer and is implemented using TypeScript for a more robust and type-safe development experience. With this app, users can create trip itineraries, search for points of interest, and share their travel plans wit
+  language   : TypeScript
+  tags       : gql, graphql, javascript, js, travel-api, travel-planner, ts, typescript, travel-graphql, travel-planner-api, travel-planner-graphql
+
+[Repo] (Page 8, Index 65)
+  name       : TraversalBST
+  url        : https://github.com/BaseMax/TraversalBST
+  description: This is a simple implementation of Binary Search Tree (BST) in C language. All In-order, Pre-order, and Post-order traversal functions are implemented.
+  language   : C
+  tags       : binary-search-tree, binary-tree, bst, c, data-structure, datastructure, ds, inorder, postorder, postorder-traversal, preorder, traversal, tree
+
+[Repo] (Page 8, Index 66)
+  name       : TreeRecursiveJS
+  url        : https://github.com/BaseMax/TreeRecursiveJS
+  description: Tree Recursive (Iterative) JavaScript; Convert a list of objects to a tree structure.
+  language   : JavaScript
+  tags       : javascript, js, recursive, recursive-algorithm, recursive-functions, tree
+
+[Repo] (Page 8, Index 67)
+  name       : TreeTraversalsGo
+  url        : https://github.com/BaseMax/TreeTraversalsGo
+  description: This is a simple Go program that traverses a tree in different ways. (Pre-order, In-order, Post-order, and Level-order)
+  language   : Go
+  tags       : data-structure, datastructure, ds, go, golang, tree, tree-search, tree-traversal, tree-traversal-algorithm, tree-traversal-algorithms, tree-traverse
+
+[Repo] (Page 8, Index 68)
+  name       : TriangularMatrixC
+  url        : https://github.com/BaseMax/TriangularMatrixC
+  description: This is a simple C program that creates a triangular matrix and prints it to the screen. The program is written in C and uses the C99 standard. This library is good to use for a quick and easy way to create a triangular matrix.
+  language   : C
+  tags       : c, matrices, matrix, triangular, triangular-math, triangular-matrices, triangular-matrix
+
+[Repo] (Page 8, Index 69)
+  name       : TrigonometricFunctions
+  url        : https://github.com/BaseMax/TrigonometricFunctions
+  description: Analysis and thinking about trigonometry functions and how they work.
+  language   : HTML
+  tags       : mathematics, math, maths, mathematical-expressions, math-expressions, mathematical-modelling, trigonometric-functions, trigonometric-formulas, trigonometric-calculations
+
+[Repo] (Page 8, Index 70)
+  name       : TSPCities
+  url        : https://github.com/BaseMax/TSPCities
+  description: I love TSP problem, I usually use this in other topics but here need to design TSP problem to find minimum cost for moving between cities.
+  language   : C++
+  tags       : cpp, tsp, tsp-problem, tsp-solver, travelling-salesman, travelling-salesman-problem, travelling-salesperson-problem, np-hard, nphard
+
+[Repo] (Page 8, Index 71)
+  name       : TwigPHPNoComposer
+  url        : https://github.com/BaseMax/TwigPHPNoComposer
+  description: A ready-to-use example for using Twig template engine without needing to Composer in PHP.
+  language   : PHP
+  tags       : composer, php, php-twig, twig, twig-templates, twigphp, twig-3, twig-php, twig3, php-template, template, template-php, template-project, template-repository
+
+[Repo] (Page 8, Index 72)
+  name       : twitter-github-trend
+  url        : https://github.com/BaseMax/twitter-github-trend
+  description: A Tiny script to send tweet for new projects in GitHub Trending. (twitter.com/GithubTrend)
+  language   : PHP
+  tags       : twitter, twitter-api, twitter-bot, github-api, github-trending, github-trend, github-trend-api, github-trend-bot, php
+
+[Repo] (Page 8, Index 73)
+  name       : TwitterBotCrawler
+  url        : https://github.com/BaseMax/TwitterBotCrawler
+  description: A bot to login in Twitter and process page with selenium using Python.
+  language   : Python
+  tags       : twitter, twitter-bot, twitter-python, twitter-py, selenium-sample, selenium-example, twitter-selenium, selenium-twitter, selenium-crawler, twitter-crawler, crawler-twitter, crawler, crawlers
+
+[Repo] (Page 8, Index 74)
+  name       : TwitterCloneAPITS
+  url        : https://github.com/BaseMax/TwitterCloneAPITS
+  description: The Twitter Clone is a web graphql service that aims to replicate some of the core features and functionality of the popular social media platform, Twitter. It provides a platform for users to post tweets, users, and more.
+  language   : TypeScript
+  tags       : api, javascript, js, nestjs, restful, restful-api, ts, ts-api, typescript, typescript-api, ts-restful, typescript-restful
+
+[Repo] (Page 8, Index 75)
+  name       : TwitterGraphQLPHP
+  url        : https://github.com/BaseMax/TwitterGraphQLPHP
+  description: This project aims to create a Twitter clone API using GraphQL in PHP8. The API will provide all the necessary queries and mutations to replicate essential features of Twitter. It enables users to perform actions such as creating tweets, following other users, liking tweets, retweeting, and more.
+  language   : PHP
+  tags       : graphql, graphql-php, php, php-graphql, php8, twitter, twitter-api, twitter-php, graphql-twitter, php-api-twitter, twitter-graphql, twitter-php-api
+
+[Repo] (Page 8, Index 76)
+  name       : typescript-graphql-crud-example
+  url        : https://github.com/BaseMax/typescript-graphql-crud-example
+  description: A example repository to show how you can create your first GraphQL Restful with TS and not JS.
+  language   : TypeScript
+  tags       : graphql, ts, typescript, js, javascript, nodejs, graphql-server, graphql-client, graphql-api, graphql-schema
+
+[Repo] (Page 8, Index 77)
+  name       : TypeScriptChatWebSocket
+  url        : https://github.com/BaseMax/TypeScriptChatWebSocket
+  description: This is a real-time chat application built with TypeScript and WebSocket, allowing users to communicate through direct messages, group messages, and channels. The application offers bidirectional communication between clients and the server, providing a seamless chat experience.
+  language   : TypeScript
+  tags       : chat, javascript, js, ts, typescript, web-socket, websocket, ws
+
+[Repo] (Page 8, Index 78)
+  name       : UnixLS
+  url        : https://github.com/BaseMax/UnixLS
+  description: Implementation of the ls command... (SOON)
+  language   : C
+  tags       : None
+
+[Repo] (Page 8, Index 79)
+  name       : UnlimitedAutoTranslate
+  url        : https://github.com/BaseMax/UnlimitedAutoTranslate
+  description: This script is using Google Translate to translate unlimited text. It's using a third-party library called to translate text. We designed this script to convert your input text in smaller chunks and translate them one by one.  You can use this script to translate unlimited text.
+  language   : Python
+  tags       : auto-translate, google-translate, google-translate-api, google-translate-free-api, py, python, python-google-translate, python-translate, translate, google-translate-py, google-translate-python, deep-translator
+
+[Repo] (Page 8, Index 80)
+  name       : url-status-checker
+  url        : https://github.com/BaseMax/url-status-checker
+  description: CLI tool to check status codes, redirections, and load time for a list of URLs.
+  language   : Python
+  tags       : None
+
+[Repo] (Page 8, Index 81)
+  name       : url-validator-nodejs
+  url        : https://github.com/BaseMax/url-validator-nodejs
+  description: This is a simple module for validating urls in nodejs and javascript that help you to extract urls from a text, check if a text has a url, check if a text has a specific url, and check if a text is excatly a url.
+  language   : JavaScript
+  tags       : javascript, js, nodejs, regex, regular-expression, regular-expression-parser, regular-expressions, url-validate, validate, validator, url-validator
+
+[Repo] (Page 8, Index 82)
+  name       : URLExtractify
+  url        : https://github.com/BaseMax/URLExtractify
+  description: URLExtractify is a lightweight, web-based tool to extract URLs from pasted content efficiently. It allows users to remove duplicates, sort URLs alphabetically, and customize URL extraction preferences through a simple, intuitive interface.
+  language   : JavaScript
+  tags       : clipboard-copy, content-parser, data-cleaning, duplicate-removal, html-processing, javascript, javascript-tools, js, regex, sorting-algorithms, text-processing, url-extraction, url-parser, web-tools, clipboard-utilities, frontend-development, javascript-snippets, simple-web-apps, text-analysis, url-processing
+
+[Repo] (Page 8, Index 83)
+  name       : USB-device-monitor
+  url        : https://github.com/BaseMax/USB-device-monitor
+  description: A cross-platform USB device monitoring tool to log plug-in and removal events on Linux, Windows, and macOS. Create a tool that tracks when USB devices are plugged into a system.
+  language   : Python
+  tags       : py, python, python3, usb, usb-device, usb-devices, usb-monitor, usb-monitoring, monitor-usb, usb-tracker
+
+[Repo] (Page 8, Index 84)
+  name       : ushell
+  url        : https://github.com/BaseMax/ushell
+  description: ubash is a simple implementation of a shell in C using 100 LOC.
+  language   : C
+  tags       : c, shell, shell-prompt, linux-shell
+
+[Repo] (Page 8, Index 85)
+  name       : ValidationParentheses
+  url        : https://github.com/BaseMax/ValidationParentheses
+  description: Tiny C program to validation Parentheses () [] {} symbols.
+  language   : C
+  tags       : c, validation, validation-util, validations, validator, validators, validator-math
+
+[Repo] (Page 8, Index 86)
+  name       : VibrationWebAPI
+  url        : https://github.com/BaseMax/VibrationWebAPI
+  description: You can control the vibration capability of your device using the Vibration API. (JavaScript) This feature can useful in SPA and PWA.
+  language   : JavaScript
+  tags       : js, javascript, vibration, vibration-sensor, chrome, vibration-api, pwa, spa
+
+[Repo] (Page 8, Index 87)
+  name       : ViComp
+  url        : https://github.com/BaseMax/ViComp
+  description: ViComp is a graphical user interface for ffmpeg and ffprobe. It is a cross-platform application that can be used on Windows, macOS, Linux, and FreeBSD. It is written in C++ and Qt. You can easily use it to reduce the size of your video files.
+  language   : C++
+  tags       : compression, cpp, ffmpeg, ffmpeg-gui, ffmpeg-script, ffmpeg-wrapper, gui, qt, ui, video, video-compress, video-compression, video-compressor, video-processing, ffmpeg-desktop, video-ffmpeg
+
+[Repo] (Page 8, Index 88)
+  name       : vuejs-cicd-deploy-ftp-cpanel
+  url        : https://github.com/BaseMax/vuejs-cicd-deploy-ftp-cpanel
+  description: This project demonstrates how to set up a Vue 3 + Vite project using Bun or Node.js, with automated deployment to FTP CPanel VPS using GitHub Actions.
+  language   : TypeScript
+  tags       : cd, ci, ci-cd, cicd, cpanel, ftp, github, github-action, github-actions, vuejs, vuejs-cicd, vue-cicd
+
+[Repo] (Page 8, Index 89)
+  name       : vuejs-cicd-deploy-on-github-pages
+  url        : https://github.com/BaseMax/vuejs-cicd-deploy-on-github-pages
+  description: This project demonstrates how to set up a Vue 3 + Vite project using Bun or Node.js, with automated deployment to GitHub Pages using gh-pages package and GitHub Actions.
+  language   : TypeScript
+  tags       : bun, cd, ci, ci-cd, cicd, deploy, github, github-action, github-actions, vite, vue, vuejs
+
+[Repo] (Page 8, Index 90)
+  name       : vuejs-cicd-deploy-sftp-ssh
+  url        : https://github.com/BaseMax/vuejs-cicd-deploy-sftp-ssh
+  description: This project demonstrates how to set up a Vue 3 + Vite project using Bun or Node.js, with automated deployment to SSH SFTP VPS using GitHub Actions.
+  language   : TypeScript
+  tags       : cd, ci, ci-cd, cicd, github, github-action, github-actions, vue-js, vuejs, vuejs-cicd
+
+[Repo] (Page 8, Index 91)
+  name       : vuejs-localhost-to-production-talk
+  url        : https://github.com/BaseMax/vuejs-localhost-to-production-talk
+  description: Take your Vue.js apps from local development to live production with a modern, automated CI/CD pipeline using GitHub Actions. In this session, we’ll walk through building a fast, reliable, and developer-friendly workflow to lint, test, build, and deploy Vue projects — whether you’re targeting static hosts, CDNs, or full-stack environments.
+  language   : HTML
+  tags       : cd, ci, ci-cd, cicd, conference, github-action, github-actions, presentation, slide, slides, talk, talks, vue, vuejs
+
+[Repo] (Page 8, Index 92)
+  name       : WakatimeGraphQLTS
+  url        : https://github.com/BaseMax/WakatimeGraphQLTS
+  description: This project is a Wakatime clone developed as a GraphQL-based webservice using TypeScript and NestJS. It aims to provide time tracking and productivity analysis for developers by integrating with various code editors and providing insightful reports on their coding activity.
+  language   : TypeScript
+  tags       : None
+
+[Repo] (Page 8, Index 93)
+  name       : WakatimeTeamReport
+  url        : https://github.com/BaseMax/WakatimeTeamReport
+  description: This Python script generates a daily report for the team lead to monitor the hourly work of team members. It tracks the number of hours spent by team members on various projects and sends the report to a Telegram group and the director's email.
+  language   : Python
+  tags       : api, python, remote, remote-work, script, team, team-work, teamwork, wakatime, wakatime-api, wakatime-client, work, workflow, api-wakatime, python-wakatime, team-wakatime, wakatime-python, wakatime-script, wakatime-software, wakatime-team
+
+[Repo] (Page 8, Index 94)
+  name       : wc-price-add-cart-limit
+  url        : https://github.com/BaseMax/wc-price-add-cart-limit
+  description: Adds a suggested-price input for products with a minimum threshold and locks attempts below minimum for 1 minute.
+  language   : PHP
+  tags       : php, wordpress, wordpress-development, wordpress-plugin, wp
+
+[Repo] (Page 8, Index 95)
+  name       : WebAssembly-Simple-App
+  url        : https://github.com/BaseMax/WebAssembly-Simple-App
+  description: A simple WebAssembly application that performs basic arithmetic operations (addition, subtraction, multiplication, and division) using a C program compiled to WebAssembly. The app demonstrates how to interact with WebAssembly in the browser by passing command-line arguments.
+  language   : JavaScript
+  tags       : None
+
+[Repo] (Page 8, Index 96)
+  name       : webcam-activity-pinger
+  url        : https://github.com/BaseMax/webcam-activity-pinger
+  description: 📷 A Python-based system to detect camera usage and notify a Flask API server.
+  language   : Python
+  tags       : camera, flask, iot, meeting, microphone, py, python, python3, script, video, camera-meeting, detect-meeting, in-meeting
+
+[Repo] (Page 8, Index 97)
+  name       : WebFindAPK
+  url        : https://github.com/BaseMax/WebFindAPK
+  description: A sample bootstrap template for a android store website.
+  language   : HTML
+  tags       : html, bootstrap, web
+
+[Repo] (Page 8, Index 98)
+  name       : WebMessengerTheme
+  url        : https://github.com/BaseMax/WebMessengerTheme
+  description: A web template for messenger based on HTML,CSS.
+  language   : HTML
+  tags       : html, css, messanger, messanger-ui
+
+[Repo] (Page 8, Index 99)
+  name       : WebMoleGame
+  url        : https://github.com/BaseMax/WebMoleGame
+  description: Mole game with HTML, CSS, JavaScript. (Web-based)
+  language   : JavaScript
+  tags       : game, html, css, js, javascript, javascript-game, js-game
+
+[Repo] (Page 8, Index 100)
+  name       : WebPostPHP
+  url        : https://github.com/BaseMax/WebPostPHP
+  description: WebPostPHP is a PHP library to build HTML form to send POST request.
+  language   : PHP
+  tags       : php, html, html-form, html-forms, html-form-builder, post-request, post-requests, post, form-post
+
+[Repo] (Page 9, Index 1)
+  name       : WebSinatra
+  url        : https://github.com/BaseMax/WebSinatra
+  description: The Sample web project using ruby sinatra.
+  language   : Ruby
+  tags       : ruby, sinatra, sinatra-applications, sinatra-web, sinatra-server, sinatra-template, sinatra-tutorial, sinatra-framework, rubygem, rubygems, ruby-gem, website
+
+[Repo] (Page 9, Index 2)
+  name       : WebSnakeGame
+  url        : https://github.com/BaseMax/WebSnakeGame
+  description: Snake game with HTML, CSS, JavaScript. (Web-based)
+  language   : JavaScript
+  tags       : js, javascript, html, css, game, snake-game, game-snake, javascript-game
+
+[Repo] (Page 9, Index 3)
+  name       : wifi-scanner
+  url        : https://github.com/BaseMax/wifi-scanner
+  description: Wi-Fi Scanner is a cross-platform Python tool for scanning and displaying available Wi-Fi networks. It supports Windows, Linux, and macOS platforms and provides detailed information such as SSID, signal strength, authentication type, encryption type, channel, and band.
+  language   : Python
+  tags       : py, python, wifi, wifi-manager, wifi-network, wifi-password, wifi-scan, wifi-scanner, wifi-scanning, python-wifi, scan-wifi, wifi-python
+
+[Repo] (Page 9, Index 4)
+  name       : windows-linux-file-downloader-c
+  url        : https://github.com/BaseMax/windows-linux-file-downloader-c
+  description: File Downloader in C: A simple C program to download files over HTTP using sockets. Cross-platform support for both Windows and Linux.
+  language   : C
+  tags       : c, clang, download-file, file-downloader, http, http-download, http-file-download, network, socket
+
+[Repo] (Page 9, Index 5)
+  name       : WordpressFunctions
+  url        : https://github.com/BaseMax/WordpressFunctions
+  description: List of all WordPress categorized functions - ~1000 WordPress PHP Functions, by learning all of them you can say you are master in WP Development.
+  language   : PHP
+  tags       : php, wordpress, wordpress-development, wordpress-plugin, wordpress-site, wordpress-theme, wp
+
+[Repo] (Page 9, Index 6)
+  name       : WorldAlgorithms
+  url        : https://github.com/BaseMax/WorldAlgorithms
+  description: Analyzing popular algorithms from the world of algorithms ...
+  language   : C
+  tags       : c, algorithms, algorithm, algorithm-challenges, algorithms-implemented, algorithm-analysis, algorithms-datastructures, algorithms-and-data-structures
+
+[Repo] (Page 9, Index 7)
+  name       : WorldCityJson
+  url        : https://github.com/BaseMax/WorldCityJson
+  description: List of all city and country name with population number in json structure.
+  language   : PHP
+  tags       : None
+
+[Repo] (Page 9, Index 8)
+  name       : YourCombinationsJS
+  url        : https://github.com/BaseMax/YourCombinationsJS
+  description: An efficient combinatorics library for JavaScript to generate and get the list of all Permutations and Combinations with the ability to enable or disable repetition. (utilizing ES2015 generators)
+  language   : JavaScript
+  tags       : combination, combinational, combinational-logic, combinations, combinations-with-repetition, javascript, js, combination-without-repetition, combinations-generator, combinations-without-repetition, permutation, permutation-algorithms, permutation-generator, permutations, permutations-generator
+
+[Repo] (Page 9, Index 9)
+  name       : YourCombinationsPHP
+  url        : https://github.com/BaseMax/YourCombinationsPHP
+  description: An efficient combinatorics library for PHP 8 to generate and get the list of all Permutations and Combinations with the ability to enable or disable repetition. (utilizing generators)
+  language   : PHP
+  tags       : algorithm, algorithms, combinatoric, combinatoric-functions, combinatorics, combinatorics-library, permutation, permutation-algorithms, permutations, php, generator, generator-function, generators, php-generator, generator-php, generators-php, php-generators
+
+[Repo] (Page 9, Index 10)
+  name       : YourCombinationsPython
+  url        : https://github.com/BaseMax/YourCombinationsPython
+  description: An efficient combinatorics Python software to generate and get the list of all Permutations and Combinations with the ability to enable or disable repetition. (utilizing generators)
+  language   : Python
+  tags       : None
+
+[Repo] (Page 9, Index 11)
+  name       : youtube-downloader-js
+  url        : https://github.com/BaseMax/youtube-downloader-js
+  description: A simple Node.js script to fetch YouTube video information using the @distube/ytdl-core library.
+  language   : JavaScript
+  tags       : javascript, js, youtube, youtube-api, youtube-dl, youtube-downloader, youtube-video, ytdl, ytdl-code
+
+[Repo] (Page 9, Index 12)
+  name       : YoutubeDownloaderNodeJS
+  url        : https://github.com/BaseMax/YoutubeDownloaderNodeJS
+  description: Tiny NodeJS server-side script for download the youtube video based on expressJs.
+  language   : JavaScript
+  tags       : youtube-dl, youtube-downloader, youtube-dl-sample, youtube-dl-example, youtube-downloader-sample, youtube-downloader-example, youtube-downloader-app, youtube-downloader-nodejs, youtube-downloader-js, youtube-video, nodejs, node, js, js-youtube, js-youtube-dl, js-dl-youtube
+
+[Repo] (Page 9, Index 13)
+  name       : YoutubeGraphQL
+  url        : https://github.com/BaseMax/YoutubeGraphQL
+  description: This project is a GraphQL-based API for a YouTube clone. It allows users to perform various operations related to videos, channels, and user interactions. The API is implemented using TypeScript and leverages the power and flexibility of GraphQL for efficient data retrieval and manipulation.
+  language   : TypeScript
+  tags       : graphql, graphql-api, graphql-server, javascript, js, ts, typescript
+
+[Repo] (Page 9, Index 14)
+  name       : ZMiniCArchiveCompressor
+  url        : https://github.com/BaseMax/ZMiniCArchiveCompressor
+  description: C software to compress and archive files with CLI console. (miniz)
+  language   : C
+  tags       : c, miniz, compressor, decompression, decompress, decompression-library, decompressor, decompression-algorithm, decompression-implementations, decompress-files, decompressing-files
+

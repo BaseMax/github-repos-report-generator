@@ -98,15 +98,20 @@ $ python github_user_repos.py basemax
 [INFO] Detected username: basemax
 [INFO] User 'basemax' validated. Fetching repositories...
 [INFO] Fetching repositories...
-[INFO] Page 1: Retrieved 100 repositories
-[INFO] Page 2: Retrieved 100 repositories
-[INFO] Page 3: Retrieved 100 repositories
-[INFO] Page 4: Retrieved 100 repositories
-[INFO] Page 5: Retrieved 100 repositories
-[INFO] Page 6: Retrieved 100 repositories
-[INFO] Page 7: Retrieved 100 repositories
-[INFO] Page 8: Retrieved 100 repositories
-[INFO] Page 9: Retrieved 14 repositories
+Page 1: Retrieved 100 repositories
+Page 2: Retrieved 100 repositories
+Page 3: Retrieved 100 repositories
+Page 4: Retrieved 100 repositories
+Page 5: Retrieved 100 repositories
+Page 6: Retrieved 100 repositories
+Page 7: Retrieved 100 repositories
+Page 8: Retrieved 100 repositories
+Page 9: Retrieved 14 repositories
+[INFO] Total public repositories found: 814
+[INFO] Saved CSV to ./basemax_repos.csv
+[INFO] Saved JSON to ./basemax_repos.json
+[INFO] Saved HTML report to ./basemax_repos.html
+[INFO] All files saved successfully.
 [INFO] Total public repositories found: 814
 ```
 
