@@ -160,13 +160,19 @@ def get_all_repos(username: str, token: Optional[str] = None, text_file_path: Op
         page_data = response.json()
         if not page_data:
             break
-        repos.extend(page_data)
-        
+
         for repo in page_data:
-            repo_info = extract_repo_info(repo, token)
+            owner = repo.get("owner", {}).get("login", "")
+            name = repo.get("name", "")
+            topics = get_repo_topics(owner, name, token)
+            repo["topics"] = topics
+
+            repo_info = extract_repo_info(repo, topics)
             log_repo_info(repo_info)
             if text_file_path:
                 append_repo_info_to_file(text_file_path, repo_info)
+
+        repos.extend(page_data)
 
         log_page_info(page, len(page_data))
         page += 1
@@ -184,8 +190,7 @@ def get_repo_topics(owner: str, repo_name: str, token: Optional[str] = None) -> 
     return []
 
 
-def extract_repo_info(repo: Dict, token: Optional[str] = None) -> Dict:
-    """Extract relevant repo info."""
+def extract_repo_info(repo: Dict, topics: List[str]) -> Dict:
     owner = repo.get("owner", {}).get("login", "")
     name = repo.get("name", "")
     return {
@@ -193,7 +198,7 @@ def extract_repo_info(repo: Dict, token: Optional[str] = None) -> Dict:
         "url": repo.get("html_url", ""),
         "description": repo.get("description") or "",
         "top_language": repo.get("language") or "",
-        "tags": get_repo_topics(owner, name, token)
+        "tags": topics
     }
 
 
@@ -298,7 +303,7 @@ def main():
     repos = get_all_repos(username, token=args.token, text_file_path=txt_path)
     logger.info(f"Total public repositories found: {len(repos)}")
 
-    repo_infos = [extract_repo_info(repo, token=args.token) for repo in repos]
+    repo_infos = [extract_repo_info(repo, repo.get("topics", [])) for repo in repos]
 
     save_csv(repo_infos, csv_path)
     save_json(repo_infos, json_path)
