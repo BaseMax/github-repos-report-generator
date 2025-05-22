@@ -36,6 +36,27 @@ python github_user_repos.py @octocat
 python github_user_repos.py https://github.com/octocat --token ghp_yourtoken123 --output-dir ./output
 ```
 
+## Testing
+
+I have up to 2k repositories while about 1k of these are public, so let's try the project and script on my account to make sure it's handling things properly.
+
+```bash
+$ python github_user_repos.py basemax
+[INFO] Detected username: basemax
+[INFO] User 'basemax' validated. Fetching repositories...
+[INFO] Fetching repositories...
+[INFO] Page 1: Retrieved 100 repositories
+[INFO] Page 2: Retrieved 100 repositories
+[INFO] Page 3: Retrieved 100 repositories
+[INFO] Page 4: Retrieved 100 repositories
+[INFO] Page 5: Retrieved 100 repositories
+[INFO] Page 6: Retrieved 100 repositories
+[INFO] Page 7: Retrieved 100 repositories
+[INFO] Page 8: Retrieved 100 repositories
+[INFO] Page 9: Retrieved 14 repositories
+[INFO] Total public repositories found: 814
+```
+
 ## License
 
 MIT License © 2025 Max Base

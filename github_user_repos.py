@@ -8,6 +8,7 @@ import requests
 import pandas as pd
 from typing import List, Dict, Tuple, Optional
 from jinja2 import Template
+from datetime import datetime
 
 GITHUB_API = "https://api.github.com"
 
@@ -29,23 +30,64 @@ def clean_username(input_str: str) -> str:
     return input_str.strip()
 
 
+def sleep_until(reset_epoch: int):
+    """Sleep until the reset time given by GitHub API."""
+    now = int(time.time())
+    sleep_seconds = reset_epoch - now + 1
+    if sleep_seconds > 0:
+        reset_time_str = datetime.utcfromtimestamp(reset_epoch).strftime('%Y-%m-%d %H:%M:%S UTC')
+        logger.warning(f"Rate limit reached. Sleeping for {sleep_seconds}s until {reset_time_str}")
+        time.sleep(sleep_seconds)
+
+
 def request_with_retries(url: str, headers: Dict[str, str] = None, params: Dict = None,
-                         max_retries: int = 3, delay: float = 1.0) -> Optional[requests.Response]:
-    """Make a GET request with retries and delay."""
+                         max_retries: int = 5, delay: float = 1.0, token: Optional[str] = None) -> Optional[requests.Response]:
+    """Make a GET request with retries and adaptive delay based on rate limits."""
     headers = headers or {}
     params = params or {}
+
+    if token:
+        headers["Authorization"] = f"token {token}"
 
     for attempt in range(1, max_retries + 1):
         try:
             resp = requests.get(url, headers=headers, params=params, timeout=10)
-            if resp.status_code == 200:
+            remaining = resp.headers.get("X-RateLimit-Remaining")
+            reset = resp.headers.get("X-RateLimit-Reset")
+            retry_after = resp.headers.get("Retry-After")
+
+            if remaining == "0":
+                if reset:
+                    reset_epoch = int(reset)
+                    sleep_until(reset_epoch)
+                else:
+                    logger.warning("Rate limit exceeded, but no reset header found. Sleeping for 60 seconds.")
+                    time.sleep(60)
+                continue
+
+            if resp.status_code in (403, 429):
+                if retry_after:
+                    retry_after_seconds = int(retry_after)
+                    logger.warning(f"Secondary rate limit hit. Sleeping for Retry-After: {retry_after_seconds} seconds.")
+                    time.sleep(retry_after_seconds)
+                    continue
+                elif remaining == "0" and reset:
+                    reset_epoch = int(reset)
+                    sleep_until(reset_epoch)
+                    continue
+                else:
+                    backoff = delay * (2 ** (attempt - 1))
+                    logger.warning(f"Rate limited with status {resp.status_code}. Backoff sleeping for {backoff} seconds.")
+                    time.sleep(backoff)
+                    continue
+
+            if resp.status_code in (200, 404):
                 return resp
-            elif resp.status_code == 404:
-                return resp
-            else:
-                logger.warning(f"HTTP {resp.status_code} from {url}. Attempt {attempt}/{max_retries}")
+
+            logger.warning(f"HTTP {resp.status_code} from {url}. Attempt {attempt}/{max_retries}")
         except requests.RequestException as e:
             logger.warning(f"Request exception on {url}: {e}. Attempt {attempt}/{max_retries}")
+
         time.sleep(delay)
     return None
 
@@ -53,8 +95,7 @@ def request_with_retries(url: str, headers: Dict[str, str] = None, params: Dict 
 def validate_username(username: str, token: Optional[str] = None) -> Tuple[bool, Optional[Dict]]:
     """Check if username exists and is a user (not org)."""
     url = f"{GITHUB_API}/users/{username}"
-    headers = {"Authorization": f"token {token}"} if token else {}
-    response = request_with_retries(url, headers=headers)
+    response = request_with_retries(url, token=token)
     if not response:
         return False, "Failed to fetch user info after retries"
     if response.status_code == 404:
@@ -66,17 +107,15 @@ def validate_username(username: str, token: Optional[str] = None) -> Tuple[bool,
 
 
 def get_all_repos(username: str, token: Optional[str] = None) -> List[Dict]:
-    """Fetch all public repositories of user with pagination."""
+    """Fetch all public repositories of user with pagination, logging each repo info."""
     repos = []
     page = 1
     per_page = 100
-    headers = {"Authorization": f"token {token}"} if token else {}
-
     logger.info("Fetching repositories...")
     while True:
         url = f"{GITHUB_API}/users/{username}/repos"
         params = {"per_page": per_page, "page": page, "type": "public", "sort": "full_name"}
-        response = request_with_retries(url, headers=headers, params=params)
+        response = request_with_retries(url, params=params, token=token)
         if not response or response.status_code != 200:
             logger.error(f"Failed to fetch repos page {page}. Status: {response.status_code if response else 'No response'}")
             break
@@ -84,6 +123,18 @@ def get_all_repos(username: str, token: Optional[str] = None) -> List[Dict]:
         if not page_data:
             break
         repos.extend(page_data)
+        
+        for repo in page_data:
+            repo_info = extract_repo_info(repo, token)
+            logger.info(
+                "[Repo]\n"
+                f"  name       : {repo_info['name']}\n"
+                f"  url        : {repo_info['url']}\n"
+                f"  description: {repo_info['description']}\n"
+                f"  language   : {repo_info['top_language']}\n"
+                f"  tags       : {', '.join(repo_info['tags']) if repo_info['tags'] else 'None'}"
+            )
+        
         logger.info(f"Page {page}: Retrieved {len(page_data)} repositories")
         page += 1
         time.sleep(0.1)
@@ -94,9 +145,7 @@ def get_repo_topics(owner: str, repo_name: str, token: Optional[str] = None) -> 
     """Get topics/tags of a repository."""
     url = f"{GITHUB_API}/repos/{owner}/{repo_name}/topics"
     headers = {"Accept": "application/vnd.github.mercy-preview+json"}
-    if token:
-        headers["Authorization"] = f"token {token}"
-    response = request_with_retries(url, headers=headers)
+    response = request_with_retries(url, headers=headers, token=token)
     if response and response.status_code == 200:
         return response.json().get("names", [])
     return []
